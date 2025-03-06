@@ -1,0 +1,1228 @@
+[
+    {
+        "name": "Heights & Suites",
+        "price_range": "5,000 - 17,500 PKR",
+        "rating": 3.7,
+        "location": "Swat, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.651420099999996,
+            "lng": 72.04022104168071
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the Swat Valley's natural beauty.",
+        "amenities": [
+            "Currency Exchange",
+            "Daily Housekeeping",
+            "Elevator",
+            "Games Room",
+            "Gift Shop",
+            "Ironing Service",
+            "Massage",
+            "Non-smoking Rooms",
+            "Solarium",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Bahrain Bazaar",
+            "Hot Springs",
+            "Swat River Fishing Spots",
+            "Valley Viewpoints"
+        ],
+        "images": [
+            "show_us_your_human_side____exterior_view.jpg",
+            "show_us_your_human_side____reception.jpg",
+            "show_us_your_human_side____garden.jpg",
+            "show_us_your_human_side____deluxe_room.jpg",
+            "show_us_your_human_side____lobby.jpg"
+        ],
+        "contact": {
+            "phone": "+92-33-2448508",
+            "email": "info@showusyourhumanside.com",
+            "website": "https://showusyourhumanside.travel"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Family Suite",
+            "Honeymoon Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "AdventureSoul",
+                "rating": 4.8,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 3.3,
+                "comment": "Good location, though some rooms need updating."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 3.1,
+                "comment": "Good location, though some rooms need updating."
+            }
+        ]
+    },
+    {
+        "name": "Blue Inn",
+        "price_range": "6,000 - 15,500 PKR",
+        "rating": 4.5,
+        "location": "Miandam, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6401,
+            "lng": 72.5702
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Bar",
+            "Car Hire",
+            "Fax/Photocopying",
+            "Gift Shop",
+            "Luggage Storage",
+            "Solarium"
+        ],
+        "nearby_attractions": [
+            "PTDC Motel",
+            "Pine Forests",
+            "Summer Cottages",
+            "Waterfall"
+        ],
+        "images": [
+            "blue_inn_terrace.jpg",
+            "blue_inn_bathroom.jpg",
+            "blue_inn_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "+92-33-1819506",
+            "email": "contact@blueinn.com",
+            "website": "http://www.blueinnhotel.travel"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Honeymoon Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainExplorer",
+                "rating": 3.7,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            },
+            {
+                "user": "SwatExplorer",
+                "rating": 5.0,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "TrailBlazer",
+                "rating": 4.6,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.6,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Crystal Lodge Saidu Sharif",
+        "price_range": "4,000 - 9,000 PKR",
+        "rating": 4.5,
+        "location": "Saidu Sharif, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the Swat Valley's natural beauty.",
+        "amenities": [
+            "BBQ Facilities",
+            "Dry Cleaning",
+            "Family Rooms",
+            "Indoor Pool",
+            "Luggage Storage",
+            "Outdoor Pool"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "Swat Royal Palace"
+        ],
+        "images": [
+            "crystal_lodge_saidu_sharif_deluxe_room.jpg",
+            "crystal_lodge_saidu_sharif_reception.jpg",
+            "crystal_lodge_saidu_sharif_suite.jpg",
+            "crystal_lodge_saidu_sharif_bathroom.jpg",
+            "crystal_lodge_saidu_sharif_conference_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923644293590",
+            "email": "crystallodgesaidusharifhotel@gmail.com",
+            "website": "https://crystallodgesaidusharifresort.net"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SwatExplorer",
+                "rating": 4.3,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.8,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            }
+        ]
+    },
+    {
+        "name": "Valley Palace & Resort",
+        "price_range": "8,000 - 16,000 PKR",
+        "rating": 4.2,
+        "location": "Miandam, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6401,
+            "lng": 72.5702
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Bar",
+            "Daily Housekeeping",
+            "Gift Shop",
+            "Heating",
+            "Library",
+            "Non-smoking Rooms",
+            "Solarium",
+            "Turkish Bath"
+        ],
+        "nearby_attractions": [
+            "Mountain Trekking Routes",
+            "PTDC Motel",
+            "Summer Cottages",
+            "Waterfall"
+        ],
+        "images": [
+            "valley_palace___resort_lobby.jpg",
+            "valley_palace___resort_reception.jpg",
+            "valley_palace___resort_lounge.jpg",
+            "valley_palace___resort_standard_room.jpg",
+            "valley_palace___resort_terrace.jpg"
+        ],
+        "contact": {
+            "phone": "+923076728214",
+            "email": "valleypalaceandresorthotel@gmail.com",
+            "website": "https://valleypalaceandresort.hotels"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Honeymoon Suite",
+            "Royal Suite",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.1,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.3,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            }
+        ]
+    },
+    {
+        "name": "Riverside Heights & Suites",
+        "price_range": "5,000 - 15,000 PKR",
+        "rating": 4.5,
+        "location": "Mingora, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the Swat Valley's natural beauty.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Dry Cleaning",
+            "Fax/Photocopying",
+            "Ironing Service",
+            "Ski Storage",
+            "Snack Bar",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Green Square",
+            "Mingora Bazaar",
+            "Swat Museum"
+        ],
+        "images": [
+            "riverside_heights___suites_reception.jpg",
+            "riverside_heights___suites_night_view.jpg",
+            "riverside_heights___suites_lobby.jpg",
+            "riverside_heights___suites_exterior_view.jpg",
+            "riverside_heights___suites_restaurant.jpg"
+        ],
+        "contact": {
+            "phone": "099-2935659",
+            "email": "info@riversideheightsandsuites.com",
+            "website": "https://riversideheightsandsuitesresort.pk"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Family Suite",
+            "Mountain View Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "AdventureSoul",
+                "rating": 4.2,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.0,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.9,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.8,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            }
+        ]
+    },
+    {
+        "name": "Serene Retreat Mingora",
+        "price_range": "4,500 - 15,000 PKR",
+        "rating": 4.7,
+        "location": "Mingora, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Dry Cleaning",
+            "Fax/Photocopying",
+            "Mountain View",
+            "Packed Lunches",
+            "Ski Storage",
+            "Tour Arrangements",
+            "Tour Desk",
+            "Turkish Bath"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Mingora Bazaar",
+            "Swat Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "serene_retreat_mingora_suite.jpg",
+            "serene_retreat_mingora_terrace.jpg",
+            "serene_retreat_mingora_mountain_view.jpg",
+            "serene_retreat_mingora_lounge.jpg",
+            "serene_retreat_mingora_garden.jpg"
+        ],
+        "contact": {
+            "phone": "035-9687163",
+            "email": "contact@sereneretreatmingora.com",
+            "website": "https://sereneretreatmingoraresort.travel"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.5,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.9,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Peak Hotel Madyan",
+        "price_range": "5,500 - 12,000 PKR",
+        "rating": 4.5,
+        "location": "Madyan, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Swat Valley experience.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Currency Exchange",
+            "Elevator",
+            "Massage",
+            "Non-smoking Rooms",
+            "Room Service"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "peak_hotel_madyan_garden.jpg",
+            "peak_hotel_madyan_terrace.jpg",
+            "peak_hotel_madyan_night_view.jpg",
+            "peak_hotel_madyan_conference_room.jpg"
+        ],
+        "contact": {
+            "phone": "+92-36-4445292",
+            "email": "info@peakhotelmadyan.com",
+            "website": "https://peakhotelmadyan.travel"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Royal Suite",
+            "Standard Double Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainExplorer",
+                "rating": 4.3,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.9,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.3,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            }
+        ]
+    },
+    {
+        "name": "Royal Plaza",
+        "price_range": "7,000 - 19,000 PKR",
+        "rating": 4.2,
+        "location": "Kalam, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "Featuring traditional Swati architecture with modern comforts, this hotel is an ideal base for mountain adventures.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Bonfire Area",
+            "Currency Exchange",
+            "Family Rooms",
+            "Garden",
+            "Gift Shop",
+            "Massage",
+            "Non-smoking Rooms",
+            "Snack Bar"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Matiltan Valley",
+            "Utror Valley"
+        ],
+        "images": [
+            "royal_plaza_exterior_view.jpg",
+            "royal_plaza_dining_area.jpg",
+            "royal_plaza_mountain_view.jpg",
+            "royal_plaza_suite.jpg"
+        ],
+        "contact": {
+            "phone": "033-6559684",
+            "email": "royalplazaresort@yahoo.com",
+            "website": "http://www.royalplazahotel.com"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Family Suite",
+            "Honeymoon Suite",
+            "Mountain View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SwatExplorer",
+                "rating": 5.0,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 3.5,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            }
+        ]
+    },
+    {
+        "name": "Pearl Hideaway",
+        "price_range": "6,000 - 15,000 PKR",
+        "rating": 4.6,
+        "location": "Mingora, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "Car Hire",
+            "Currency Exchange",
+            "Daily Housekeeping",
+            "Honeymoon Suite",
+            "Mountain View",
+            "Restaurant",
+            "Ski Storage",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Swat Museum"
+        ],
+        "images": [
+            "pearl_hideaway_night_view.jpg",
+            "pearl_hideaway_lounge.jpg",
+            "pearl_hideaway_conference_room.jpg",
+            "pearl_hideaway_reception.jpg",
+            "pearl_hideaway_suite.jpg"
+        ],
+        "contact": {
+            "phone": "+929993290800",
+            "email": "info@pearlhideaway.com",
+            "website": "https://pearlhideawayresort.travel"
+        },
+        "booking_options": [
+            "Executive Room",
+            "River View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.3,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.7,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.8,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            }
+        ]
+    },
+    {
+        "name": "Valley Plaza Premium",
+        "price_range": "9,000 - 21,500 PKR",
+        "rating": 4.0,
+        "location": "Malam Jabba, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "Bonfire Area",
+            "Breakfast",
+            "Dry Cleaning",
+            "Fax/Photocopying",
+            "Games Room",
+            "Honeymoon Suite",
+            "Outdoor Pool",
+            "Packed Lunches",
+            "Snack Bar",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "valley_plaza_premium_reception.jpg",
+            "valley_plaza_premium_restaurant.jpg",
+            "valley_plaza_premium_terrace.jpg"
+        ],
+        "contact": {
+            "phone": "+929454908911",
+            "email": "reservations@valleyplazapremium.pk",
+            "website": "https://valleyplazapremium.hotels"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Executive Room",
+            "Family Suite",
+            "Mountain View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.2,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.6,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 3.3,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            }
+        ]
+    },
+    {
+        "name": "Riverside Lodge Madyan",
+        "price_range": "4,500 - 10,500 PKR",
+        "rating": 4.1,
+        "location": "Madyan, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "BBQ Facilities",
+            "Elevator",
+            "Gift Shop",
+            "Hot Tub",
+            "Ski Storage",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "riverside_lodge_madyan_river_view.jpg",
+            "riverside_lodge_madyan_exterior_view.jpg",
+            "riverside_lodge_madyan_night_view.jpg"
+        ],
+        "contact": {
+            "phone": "030-2156519",
+            "email": "riversidelodgemadyanhotel@gmail.com",
+            "website": "https://riversidelodgemadyan.net"
+        },
+        "booking_options": [
+            "Honeymoon Suite",
+            "Premium Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "KarakoramTrekker",
+                "rating": 5.0,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            },
+            {
+                "user": "MountainView",
+                "rating": 3.2,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.2,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            }
+        ]
+    },
+    {
+        "name": "Valley Heights",
+        "price_range": "4,000 - 11,000 PKR",
+        "rating": 4.0,
+        "location": "Madyan, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Madyan.",
+        "amenities": [
+            "Business Center",
+            "Daily Housekeeping",
+            "Massage",
+            "Ski Storage",
+            "Snack Bar",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "valley_heights_lounge.jpg",
+            "valley_heights_dining_area.jpg",
+            "valley_heights_conference_room.jpg",
+            "valley_heights_terrace.jpg",
+            "valley_heights_garden.jpg"
+        ],
+        "contact": {
+            "phone": "+923296434074",
+            "email": "reservations@valleyheights.pk",
+            "website": "https://valleyheights.pk"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Mountain View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "KarakoramTrekker",
+                "rating": 3.2,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.6,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.3,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.1,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            }
+        ]
+    },
+    {
+        "name": "Serene Continental Premium",
+        "price_range": "6,500 - 19,500 PKR",
+        "rating": 4.3,
+        "location": "Kalam, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "Located in the heart of Kalam, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "Daily Housekeeping",
+            "Family Rooms",
+            "Laundry",
+            "Turkish Bath"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Matiltan Valley",
+            "Swat River",
+            "Ushu Forest",
+            "Utror Valley"
+        ],
+        "images": [
+            "serene_continental_premium_suite.jpg",
+            "serene_continental_premium_reception.jpg",
+            "serene_continental_premium_standard_room.jpg",
+            "serene_continental_premium_mountain_view.jpg",
+            "serene_continental_premium_lounge.jpg"
+        ],
+        "contact": {
+            "phone": "+929945470128",
+            "email": "reservations@serenecontinentalpremium.pk",
+            "website": "https://serenecontinentalpremiumresort.pk"
+        },
+        "booking_options": [
+            "Mountain View Room",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TravelEnthusiast",
+                "rating": 3.9,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.8,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Royal View",
+        "price_range": "8,000 - 16,000 PKR",
+        "rating": 4.5,
+        "location": "Kalam, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "Bicycle Rental",
+            "Dry Cleaning",
+            "Gift Shop",
+            "Laundry",
+            "Outdoor Pool",
+            "Safe",
+            "Solarium",
+            "Special Diet Menus",
+            "Terrace",
+            "Turkish Bath"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Swat River",
+            "Utror Valley"
+        ],
+        "images": [
+            "royal_view_bathroom.jpg",
+            "royal_view_river_view.jpg",
+            "royal_view_night_view.jpg",
+            "royal_view_lobby.jpg"
+        ],
+        "contact": {
+            "phone": "+92-34-6420392",
+            "email": "royalviewhotel@gmail.com",
+            "website": "http://www.royalviewhotel.travel"
+        },
+        "booking_options": [
+            "Royal Suite",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.8,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 3.5,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.8,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "SwatExplorer",
+                "rating": 4.8,
+                "comment": "The manager personally helped arrange our local tours."
+            }
+        ]
+    },
+    {
+        "name": "Royal Residency",
+        "price_range": "5,500 - 14,500 PKR",
+        "rating": 4.1,
+        "location": "Mingora, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the Swat Valley's natural beauty.",
+        "amenities": [
+            "Bicycle Rental",
+            "Laundry",
+            "Parking",
+            "Sauna"
+        ],
+        "nearby_attractions": [
+            "Green Square",
+            "Mingora Bazaar",
+            "Swat Museum"
+        ],
+        "images": [
+            "royal_residency_garden.jpg",
+            "royal_residency_terrace.jpg",
+            "royal_residency_bathroom.jpg",
+            "royal_residency_mountain_view.jpg",
+            "royal_residency_suite.jpg"
+        ],
+        "contact": {
+            "phone": "+92-32-9987429",
+            "email": "contact@royalresidency.com",
+            "website": "http://www.royalresidencyhotel.pk"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "CultureExplorer",
+                "rating": 4.1,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.1,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 4.5,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.3,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.6,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            }
+        ]
+    },
+    {
+        "name": "Imperial Comfort",
+        "price_range": "11,500 - 18,500 PKR",
+        "rating": 4.0,
+        "location": "Malam Jabba, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Malam Jabba.",
+        "amenities": [
+            "Bicycle Rental",
+            "Fitness Center",
+            "Packed Lunches",
+            "Room Service",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Ski Resort",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "imperial_comfort_bathroom.jpg",
+            "imperial_comfort_conference_room.jpg",
+            "imperial_comfort_lounge.jpg",
+            "imperial_comfort_suite.jpg",
+            "imperial_comfort_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "+92-33-4235369",
+            "email": "imperialcomfortresort@yahoo.com",
+            "website": "https://imperialcomfortresort.hotels"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Premium Room",
+            "River View Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ValleyHiker",
+                "rating": 4.2,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 3.2,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.7,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Royal Plaza Exclusive",
+        "price_range": "10,500 - 22,000 PKR",
+        "rating": 4.5,
+        "location": "Malam Jabba, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "Breakfast",
+            "Evening Entertainment",
+            "Fax/Photocopying",
+            "Honeymoon Suite",
+            "Hot Tub",
+            "Luggage Storage",
+            "Outdoor Pool"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Ski Resort"
+        ],
+        "images": [
+            "royal_plaza_exclusive_conference_room.jpg",
+            "royal_plaza_exclusive_restaurant.jpg",
+            "royal_plaza_exclusive_lounge.jpg"
+        ],
+        "contact": {
+            "phone": "+923214650628",
+            "email": "royalplazaexclusivehotel@gmail.com",
+            "website": "https://royalplazaexclusive.hotels"
+        },
+        "booking_options": [
+            "Mountain View Room",
+            "Premium Room",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainExplorer",
+                "rating": 4.9,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.9,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.1,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.8,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 3.8,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Grand Lodge",
+        "price_range": "5,500 - 11,500 PKR",
+        "rating": 3.4,
+        "location": "Madyan, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "Bonfire Area",
+            "Breakfast",
+            "Elevator",
+            "Family Rooms",
+            "Luggage Storage",
+            "River View",
+            "Solarium",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "River Beaches"
+        ],
+        "images": [
+            "grand_lodge_lounge.jpg",
+            "grand_lodge_standard_room.jpg",
+            "grand_lodge_night_view.jpg",
+            "grand_lodge_reception.jpg"
+        ],
+        "contact": {
+            "phone": "+92-32-2212628",
+            "email": "grandlodgehotel@gmail.com",
+            "website": "http://www.grandlodge.pk"
+        },
+        "booking_options": [
+            "Mountain View Room",
+            "River View Room",
+            "Royal Suite",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TravelEnthusiast",
+                "rating": 3.3,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 3.1,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 3.9,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            }
+        ]
+    },
+    {
+        "name": "Crown Hotel Saidu Sharif",
+        "price_range": "4,500 - 10,000 PKR",
+        "rating": 3.7,
+        "location": "Saidu Sharif, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "Located in the heart of Saidu Sharif, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "24-hour Front Desk",
+            "BBQ Facilities",
+            "Bonfire Area",
+            "Heating",
+            "Laundry",
+            "Parking",
+            "Restaurant",
+            "River View",
+            "Ski Storage",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "Swat Royal Palace"
+        ],
+        "images": [
+            "crown_hotel_saidu_sharif_garden.jpg",
+            "crown_hotel_saidu_sharif_dining_area.jpg",
+            "crown_hotel_saidu_sharif_lounge.jpg",
+            "crown_hotel_saidu_sharif_bathroom.jpg",
+            "crown_hotel_saidu_sharif_night_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923032274351",
+            "email": "info@crownhotelsaidusharif.com",
+            "website": "http://www.crownhotelsaidusharifhotel.net"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Premium Room",
+            "River View Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ValleyHiker",
+                "rating": 4.5,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "SwatExplorer",
+                "rating": 3.1,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.2,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 3.3,
+                "comment": "Beautiful views but limited dining options."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.6,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            }
+        ]
+    },
+    {
+        "name": "Pearl Inn Premium",
+        "price_range": "4,000 - 13,500 PKR",
+        "rating": 4.7,
+        "location": "Mingora, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Breakfast",
+            "Dry Cleaning",
+            "Fax/Photocopying",
+            "Gift Shop",
+            "Indoor Pool",
+            "Ironing Service",
+            "Mountain View",
+            "Parking",
+            "Solarium",
+            "Spa"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Mingora Bazaar",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "pearl_inn_premium_restaurant.jpg",
+            "pearl_inn_premium_mountain_view.jpg",
+            "pearl_inn_premium_suite.jpg",
+            "pearl_inn_premium_exterior_view.jpg",
+            "pearl_inn_premium_dining_area.jpg"
+        ],
+        "contact": {
+            "phone": "030-5841228",
+            "email": "pearlinnpremiumresort@yahoo.com",
+            "website": "https://pearlinnpremiumresort.com"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Family Suite",
+            "Honeymoon Suite",
+            "River View Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.7,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "TrailBlazer",
+                "rating": 4.4,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "TrailBlazer",
+                "rating": 4.9,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            }
+        ]
+    }
+]
