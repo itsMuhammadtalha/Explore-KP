@@ -2,6 +2,9 @@ import streamlit as st
 from utils.data_loader import DataLoader
 import pandas as pd
 from components.chat_interface import chat_interface
+from components.user_registration import user_registration
+from components.preference_form import preference_form
+from components.recommendations import show_recommendations
 
 
 # Page configuration
@@ -17,6 +20,12 @@ def get_data():
     return DataLoader("data/swat_complete_hotels.json")
 
 data_loader = get_data()
+
+# Initialize session state for user management
+if 'logged_in' not in st.session_state:
+    st.session_state.logged_in = False
+if 'user' not in st.session_state:
+    st.session_state.user = None
 
 # Add custom CSS for hotel cards with new color scheme
 st.markdown("""
@@ -261,12 +270,30 @@ def main():
         if st.button("🤖 Chat with AI", use_container_width=True):
             st.session_state.page = 'chat'
             st.rerun()
+        
+        # Show user info or login/register button
+        if st.session_state.logged_in:
+            st.write(f"👋 Hello, {st.session_state.user['username']}!")
+            if st.button("🌟 My Recommendations"):
+                st.session_state.page = 'recommendations'
+                st.rerun()
+            if st.button("🔍 My Preferences"):
+                st.session_state.page = 'preferences'
+                st.rerun()
+            if st.button("Logout"):
+                st.session_state.logged_in = False
+                st.session_state.user = None
+                st.rerun()
+        else:
+            if st.button("Login / Register"):
+                st.session_state.page = 'user'
+                st.rerun()
     
     # Main content area
     if st.session_state.page == 'main':
         # Center-aligned container
         st.markdown('<div class="main-container">', unsafe_allow_html=True)
-        st.title("🏔️ Discover Swat Valley")
+        st.title("🏔️ Explore-KP")
         
         # Filter data based on selections
         filtered_data = data_loader.df
@@ -325,6 +352,27 @@ def main():
         
         # Show chat interface
         chat_interface()
+    elif st.session_state.page == 'user':
+        # Show user registration/login
+        user_registration()
+        # Add back button
+        if st.button("← Back to Hotels"):
+            st.session_state.page = 'main'
+            st.rerun()
+    elif st.session_state.page == 'preferences':
+        # Show preferences form
+        preference_form(data_loader)
+        # Add back button
+        if st.button("← Back to Hotels"):
+            st.session_state.page = 'main'
+            st.rerun()
+    elif st.session_state.page == 'recommendations':
+        # Show recommendations
+        show_recommendations(data_loader)
+        # Add back button
+        if st.button("← Back to Hotels"):
+            st.session_state.page = 'main'
+            st.rerun()
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": "8c1014ef-0fc2-49eb-ac6d-9ec899eeb59f",
+            "username": "Anas ",
+            "email": "p200008@pwr.nu.edu.pk",
+            "password": "Anas123",
+            "created_at": "2025-03-08T14:48:44.982643",
+            "last_login": "2025-03-08T14:48:44.984096"
+        },
+        {
+            "id": "544dd4a3-7ebe-4050-b964-4bc8f14abdc3",
+            "username": "moiz",
+            "email": "moizkhan@gmail.com",
+            "password": "moiz1234",
+            "created_at": "2025-03-08T15:21:31.539203",
+            "last_login": "2025-03-09T15:56:17.215347"
+        },
+        {
+            "id": "3e9ab151-fc73-4b9d-be2d-e033fdf3f8ca",
+            "username": "talha",
+            "email": "talhakhan@gmail.com",
+            "password": "talha123",
+            "created_at": "2025-03-09T15:52:28.556651",
+            "last_login": "2025-03-09T15:52:28.557831"
+        },
+        {
+            "id": "e1f7b7be-3a6b-4333-841f-c84c12eda0c0",
+            "username": "arbab saib",
+            "email": "arbabsaib@gmail.com",
+            "password": "arbab123",
+            "created_at": "2025-03-09T15:57:09.047731",
+            "last_login": "2025-03-09T15:57:09.048847"
+        }
+    ]
+}

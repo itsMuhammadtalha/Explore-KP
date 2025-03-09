@@ -1,0 +1,78 @@
+{
+    "preferences": [
+        {
+            "user_id": "8c1014ef-0fc2-49eb-ac6d-9ec899eeb59f",
+            "preferred_price_ranges": [],
+            "preferred_locations": [
+                "Saidu Sharif, Swat, Khyber Pakhtunkhwa"
+            ],
+            "preferred_amenities": [
+                "Breakfast",
+                "Garden"
+            ],
+            "travel_type": [
+                "Solo"
+            ],
+            "min_stay": 1,
+            "max_stay": 7
+        },
+        {
+            "user_id": "544dd4a3-7ebe-4050-b964-4bc8f14abdc3",
+            "preferred_price_ranges": [
+                "4,000 - 9,000 PKR"
+            ],
+            "preferred_locations": [
+                "Miandam, Swat, Khyber Pakhtunkhwa"
+            ],
+            "preferred_amenities": [
+                "Bar",
+                "Breakfast",
+                "Currency Exchange"
+            ],
+            "travel_type": [
+                "Couple"
+            ],
+            "min_stay": 6,
+            "max_stay": 10
+        },
+        {
+            "user_id": "3e9ab151-fc73-4b9d-be2d-e033fdf3f8ca",
+            "preferred_price_ranges": [
+                "6,000 - 15,500 PKR"
+            ],
+            "preferred_locations": [
+                "Miandam, Swat, Khyber Pakhtunkhwa",
+                "Swat, Swat, Khyber Pakhtunkhwa",
+                "Mingora, Swat, Khyber Pakhtunkhwa"
+            ],
+            "preferred_amenities": [
+                "BBQ Facilities",
+                "Bar",
+                "Breakfast"
+            ],
+            "travel_type": [
+                "Solo",
+                "Couple"
+            ],
+            "min_stay": 3,
+            "max_stay": 7
+        },
+        {
+            "user_id": "e1f7b7be-3a6b-4333-841f-c84c12eda0c0",
+            "preferred_price_ranges": [
+                "4,000 - 13,500 PKR"
+            ],
+            "preferred_locations": [
+                "Saidu Sharif, Swat, Khyber Pakhtunkhwa"
+            ],
+            "preferred_amenities": [
+                "Turkish Bath"
+            ],
+            "travel_type": [
+                "Business"
+            ],
+            "min_stay": 30,
+            "max_stay": 30
+        }
+    ]
+}
