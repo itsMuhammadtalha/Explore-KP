@@ -23,7 +23,7 @@ cities = ["Swat", "Murree"]  # Add more cities as needed
 selected_city = st.selectbox("Select a City", cities)
 
 # Initialize data loader based on selected city
-data_loader = DataLoader(f"/home/talha/Documents/travel-app/src/data/{selected_city.lower()}_complete_hotels.json")
+data_loader = DataLoader(f"data/{selected_city.lower()}_complete_hotels.json")
 
 # Initialize session state for user management
 if 'logged_in' not in st.session_state:
