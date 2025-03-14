@@ -1,0 +1,1225 @@
+[
+    {
+        "name": "Show us your human side...",
+        "price_range": "5,000 - 16,000 PKR",
+        "rating": 4.0,
+        "location": "Swat, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.651420099999996,
+            "lng": 72.04022104168071
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Swat.",
+        "amenities": [
+            "Bicycle Rental",
+            "Fitness Center",
+            "Garden",
+            "Hot Tub",
+            "Outdoor Pool",
+            "Packed Lunches",
+            "Special Diet Menus",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Dunga Gali",
+            "Mukshpuri Trek",
+            "Nathiagali Church"
+        ],
+        "images": [
+            "show_us_your_human_side____deluxe_room.jpg",
+            "show_us_your_human_side____mountain_view.jpg",
+            "show_us_your_human_side____restaurant.jpg",
+            "show_us_your_human_side____dining_area.jpg"
+        ],
+        "contact": {
+            "phone": "+92-99-5357678",
+            "email": "showusyourhumansidehotel@gmail.com",
+            "website": "https://showusyourhumansideresort.pk"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Premium Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.4,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.4,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 3.1,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            }
+        ]
+    },
+    {
+        "name": "Pearl Resort",
+        "price_range": "4,500 - 14,000 PKR",
+        "rating": 4.4,
+        "location": "Swat, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.651420099999996,
+            "lng": 72.04022104168071
+        },
+        "description": "Located in the heart of Swat, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "24-hour Front Desk",
+            "BBQ Facilities",
+            "Business Center",
+            "Evening Entertainment",
+            "Family Rooms",
+            "Fitness Center",
+            "Ironing Service",
+            "Meeting Facilities",
+            "Sauna",
+            "Ski Storage"
+        ],
+        "nearby_attractions": [
+            "Cable Car",
+            "Chairlift",
+            "Hiking Trails"
+        ],
+        "images": [
+            "pearl_resort_lobby.jpg",
+            "pearl_resort_conference_room.jpg",
+            "pearl_resort_deluxe_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923171558080",
+            "email": "pearlresorthotel@gmail.com",
+            "website": "https://pearlresortresort.hotels"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Premium Room",
+            "River View Room",
+            "Standard Double Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.8,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.8,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.9,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 3.2,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            }
+        ]
+    },
+    {
+        "name": "Pearl Haven",
+        "price_range": "4,500 - 12,000 PKR",
+        "rating": 4.3,
+        "location": "Nathiagali, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.002,
+            "lng": 73.3925
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the Swat Valley's natural beauty.",
+        "amenities": [
+            "Bar",
+            "Bonfire Area",
+            "Car Hire",
+            "Daily Housekeeping",
+            "Elevator",
+            "Hot Tub",
+            "Indoor Pool",
+            "Restaurant",
+            "Ski Storage",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Dunga Gali",
+            "Mukshpuri Trek",
+            "Nathiagali Church"
+        ],
+        "images": [
+            "pearl_haven_reception.jpg",
+            "pearl_haven_suite.jpg",
+            "pearl_haven_garden.jpg",
+            "pearl_haven_bathroom.jpg",
+            "pearl_haven_restaurant.jpg"
+        ],
+        "contact": {
+            "phone": "030-6289071",
+            "email": "info@pearlhaven.com",
+            "website": "http://www.pearlhavenhotel.net"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Family Suite",
+            "Honeymoon Suite",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NomadHeart",
+                "rating": 4.5,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 4.5,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "SwatExplorer",
+                "rating": 3.3,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 4.8,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Paradise Residency",
+        "price_range": "9,000 - 17,500 PKR",
+        "rating": 4.2,
+        "location": "Murree, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9072,
+            "lng": 73.3925
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Evening Entertainment",
+            "Honeymoon Suite",
+            "Ironing Service",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Ayubia National Park",
+            "Kashmir Point",
+            "Patriata Chairlift",
+            "Pindi Point"
+        ],
+        "images": [
+            "paradise_residency_night_view.jpg",
+            "paradise_residency_lobby.jpg",
+            "paradise_residency_garden.jpg",
+            "paradise_residency_restaurant.jpg"
+        ],
+        "contact": {
+            "phone": "+923243833910",
+            "email": "reservations@paradiseresidency.pk",
+            "website": "http://www.paradiseresidency.com"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Family Suite",
+            "Mountain View Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NatureLover",
+                "rating": 4.7,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 3.1,
+                "comment": "Good value, but hot water was inconsistent."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.8,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Blue Plaza",
+        "price_range": "6,000 - 12,000 PKR",
+        "rating": 4.4,
+        "location": "Nathiagali, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.002,
+            "lng": 73.3925
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Nathiagali.",
+        "amenities": [
+            "Dry Cleaning",
+            "Heating",
+            "Tour Arrangements",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Dunga Gali",
+            "Mukshpuri Trek",
+            "Nathiagali Church"
+        ],
+        "images": [
+            "blue_plaza_conference_room.jpg",
+            "blue_plaza_standard_room.jpg",
+            "blue_plaza_suite.jpg"
+        ],
+        "contact": {
+            "phone": "+92-31-3552472",
+            "email": "reservations@blueplaza.pk",
+            "website": "https://blueplaza.travel"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainExplorer",
+                "rating": 4.4,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 4.5,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.7,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 3.7,
+                "comment": "Good location, though some rooms need updating."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.6,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Green Retreat",
+        "price_range": "9,500 - 17,000 PKR",
+        "rating": 3.9,
+        "location": "Murree, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9072,
+            "lng": 73.3925
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Swat Valley experience.",
+        "amenities": [
+            "Bar",
+            "Indoor Pool",
+            "Mountain View",
+            "Room Service",
+            "Special Diet Menus",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Ayubia National Park",
+            "Kashmir Point",
+            "Patriata Chairlift",
+            "Pindi Point"
+        ],
+        "images": [
+            "green_retreat_river_view.jpg",
+            "green_retreat_restaurant.jpg",
+            "green_retreat_exterior_view.jpg"
+        ],
+        "contact": {
+            "phone": "+92-36-2940709",
+            "email": "greenretreathotel@gmail.com",
+            "website": "https://greenretreat.travel"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Executive Room",
+            "Family Suite",
+            "Premium Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NomadHeart",
+                "rating": 4.5,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.2,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            }
+        ]
+    },
+    {
+        "name": "Peak Suites Ayubia",
+        "price_range": "6,000 - 13,000 PKR",
+        "rating": 4.7,
+        "location": "Ayubia, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.911,
+            "lng": 73.3927
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "BBQ Facilities",
+            "Elevator",
+            "Free WiFi",
+            "Games Room",
+            "Gift Shop",
+            "Ironing Service",
+            "Outdoor Pool",
+            "Restaurant",
+            "Room Service",
+            "Sauna"
+        ],
+        "nearby_attractions": [
+            "Ayubia National Park",
+            "Bird Watching",
+            "Hiking Trails"
+        ],
+        "images": [
+            "peak_suites_ayubia_mountain_view.jpg",
+            "peak_suites_ayubia_bathroom.jpg",
+            "peak_suites_ayubia_lounge.jpg"
+        ],
+        "contact": {
+            "phone": "+923367060363",
+            "email": "peaksuitesayubiahotel@gmail.com",
+            "website": "https://peaksuitesayubia.pk"
+        },
+        "booking_options": [
+            "Family Suite",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.6,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.8,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 4.9,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.6,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            }
+        ]
+    },
+    {
+        "name": "Luxury Hideaway",
+        "price_range": "5,000 - 11,500 PKR",
+        "rating": 3.8,
+        "location": "Patriata, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.908,
+            "lng": 73.3922
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Patriata.",
+        "amenities": [
+            "Currency Exchange",
+            "Fax/Photocopying",
+            "Heating",
+            "Luggage Storage",
+            "Parking",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Cable Car",
+            "Chairlift",
+            "Hiking Trails"
+        ],
+        "images": [
+            "luxury_hideaway_lobby.jpg",
+            "luxury_hideaway_conference_room.jpg",
+            "luxury_hideaway_night_view.jpg",
+            "luxury_hideaway_garden.jpg"
+        ],
+        "contact": {
+            "phone": "+92-30-1759190",
+            "email": "luxuryhideawayhotel@gmail.com",
+            "website": "http://www.luxuryhideawayhotel.com"
+        },
+        "booking_options": [
+            "Honeymoon Suite",
+            "Standard Double Room",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ViewSeeker",
+                "rating": 3.3,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.2,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            }
+        ]
+    },
+    {
+        "name": "Blue Lodge Patriata",
+        "price_range": "7,000 - 11,500 PKR",
+        "rating": 4.0,
+        "location": "Patriata, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.908,
+            "lng": 73.3922
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Patriata.",
+        "amenities": [
+            "Airport Shuttle",
+            "Business Center",
+            "Heating",
+            "Indoor Pool",
+            "Ironing Service",
+            "Massage",
+            "Outdoor Pool",
+            "Packed Lunches",
+            "Special Diet Menus",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Cable Car",
+            "Chairlift",
+            "Hiking Trails"
+        ],
+        "images": [
+            "blue_lodge_patriata_restaurant.jpg",
+            "blue_lodge_patriata_suite.jpg",
+            "blue_lodge_patriata_garden.jpg",
+            "blue_lodge_patriata_night_view.jpg",
+            "blue_lodge_patriata_dining_area.jpg"
+        ],
+        "contact": {
+            "phone": "033-8562717",
+            "email": "info@bluelodgepatriata.com",
+            "website": "http://www.bluelodgepatriatahotel.travel"
+        },
+        "booking_options": [
+            "Premium Room",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ViewSeeker",
+                "rating": 4.3,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            },
+            {
+                "user": "PakVoyager",
+                "rating": 4.1,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 3.2,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.6,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Silver Hotel & Restaurant",
+        "price_range": "8,000 - 20,500 PKR",
+        "rating": 4.0,
+        "location": "Mall Road, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9075,
+            "lng": 73.3928
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "24-hour Front Desk",
+            "BBQ Facilities",
+            "Games Room",
+            "Laundry",
+            "Mountain View",
+            "Packed Lunches"
+        ],
+        "nearby_attractions": [
+            "Cafes",
+            "Local Markets",
+            "Shopping Areas"
+        ],
+        "images": [
+            "silver_hotel___restaurant_dining_area.jpg",
+            "silver_hotel___restaurant_conference_room.jpg",
+            "silver_hotel___restaurant_lobby.jpg"
+        ],
+        "contact": {
+            "phone": "033-2704183",
+            "email": "contact@silverhotelandrestaurant.com",
+            "website": "https://silverhotelandrestaurant.travel"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Family Suite",
+            "Honeymoon Suite",
+            "River View Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 3.0,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 3.7,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 4.4,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "TrailBlazer",
+                "rating": 5.0,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            }
+        ]
+    },
+    {
+        "name": "Green Retreat",
+        "price_range": "6,000 - 14,500 PKR",
+        "rating": 4.4,
+        "location": "Pindi Point, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.906,
+            "lng": 73.392
+        },
+        "description": "Located in the heart of Pindi Point, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "Business Center",
+            "Gift Shop",
+            "Heating",
+            "Hot Tub",
+            "Indoor Pool",
+            "Luggage Storage",
+            "Massage",
+            "Non-smoking Rooms"
+        ],
+        "nearby_attractions": [
+            "Mushkpuri Trek",
+            "Patriata Chairlift",
+            "Pindi Point Viewpoint"
+        ],
+        "images": [
+            "green_retreat_garden.jpg",
+            "green_retreat_restaurant.jpg",
+            "green_retreat_bathroom.jpg",
+            "green_retreat_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "+929995050002",
+            "email": "greenretreatresort@yahoo.com",
+            "website": "https://greenretreatresort.hotels"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Premium Room",
+            "River View Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NatureLover",
+                "rating": 5.0,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.1,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.2,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.7,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "SwatExplorer",
+                "rating": 4.2,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Residency Kashmir Point",
+        "price_range": "5,500 - 9,000 PKR",
+        "rating": 4.3,
+        "location": "Kashmir Point, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9065,
+            "lng": 73.3923
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Kashmir Point.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Bicycle Rental",
+            "Dry Cleaning",
+            "Elevator",
+            "Heating",
+            "Ironing Service",
+            "Library",
+            "Outdoor Pool",
+            "Packed Lunches"
+        ],
+        "nearby_attractions": [
+            "Nature Walks",
+            "Photography Spots",
+            "Viewpoint"
+        ],
+        "images": [
+            "mountain_residency_kashmir_point_suite.jpg",
+            "mountain_residency_kashmir_point_conference_room.jpg",
+            "mountain_residency_kashmir_point_river_view.jpg",
+            "mountain_residency_kashmir_point_night_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923341294359",
+            "email": "mountainresidencykashmirpointresort@yahoo.com",
+            "website": "https://mountainresidencykashmirpointresort.travel"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 4.3,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 3.8,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 4.2,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.7,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.6,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            }
+        ]
+    },
+    {
+        "name": "Pearl Comfort & Spa",
+        "price_range": "7,500 - 16,500 PKR",
+        "rating": 3.9,
+        "location": "Murree, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9072,
+            "lng": 73.3925
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "Airport Shuttle",
+            "Business Center",
+            "Family Rooms",
+            "Indoor Pool",
+            "Laundry",
+            "Luggage Storage",
+            "Restaurant",
+            "Snack Bar",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Ayubia National Park",
+            "Kashmir Point",
+            "Mall Road"
+        ],
+        "images": [
+            "pearl_comfort___spa_exterior_view.jpg",
+            "pearl_comfort___spa_deluxe_room.jpg",
+            "pearl_comfort___spa_mountain_view.jpg",
+            "pearl_comfort___spa_river_view.jpg"
+        ],
+        "contact": {
+            "phone": "035-8580641",
+            "email": "info@pearlcomfortandspa.com",
+            "website": "http://www.pearlcomfortandspahotel.com"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "PeacefulWanderer",
+                "rating": 3.6,
+                "comment": "Good location, though some rooms need updating."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.8,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 3.8,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.5,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Serene Haven",
+        "price_range": "5,000 - 12,500 PKR",
+        "rating": 4.2,
+        "location": "Kashmir Point, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9065,
+            "lng": 73.3923
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Kashmir Point.",
+        "amenities": [
+            "Car Hire",
+            "Mountain View",
+            "Ski Storage",
+            "Special Diet Menus",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Nature Walks",
+            "Photography Spots",
+            "Viewpoint"
+        ],
+        "images": [
+            "serene_haven_lobby.jpg",
+            "serene_haven_lounge.jpg",
+            "serene_haven_mountain_view.jpg",
+            "serene_haven_night_view.jpg",
+            "serene_haven_conference_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923312291487",
+            "email": "reservations@serenehaven.pk",
+            "website": "http://www.serenehavenhotel.travel"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Executive Room",
+            "Mountain View Room",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 5.0,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 3.4,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            }
+        ]
+    },
+    {
+        "name": "Imperial Retreat Premium",
+        "price_range": "6,000 - 14,000 PKR",
+        "rating": 4.4,
+        "location": "Patriata, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.908,
+            "lng": 73.3922
+        },
+        "description": "Featuring traditional Swati architecture with modern comforts, this hotel is an ideal base for mountain adventures.",
+        "amenities": [
+            "Car Hire",
+            "Laundry",
+            "Parking",
+            "Spa"
+        ],
+        "nearby_attractions": [
+            "Cable Car",
+            "Chairlift",
+            "Hiking Trails"
+        ],
+        "images": [
+            "imperial_retreat_premium_night_view.jpg",
+            "imperial_retreat_premium_reception.jpg",
+            "imperial_retreat_premium_bathroom.jpg"
+        ],
+        "contact": {
+            "phone": "031-7392579",
+            "email": "imperialretreatpremiumhotel@gmail.com",
+            "website": "https://imperialretreatpremium.travel"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Family Suite",
+            "River View Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.9,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 5.0,
+                "comment": "Perfect base for exploring the beautiful Swat Valley."
+            },
+            {
+                "user": "MountainView",
+                "rating": 3.3,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Serene Residency",
+        "price_range": "5,500 - 13,000 PKR",
+        "rating": 4.1,
+        "location": "Pindi Point, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.906,
+            "lng": 73.392
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "Bonfire Area",
+            "Currency Exchange",
+            "Family Rooms",
+            "Honeymoon Suite",
+            "Non-smoking Rooms"
+        ],
+        "nearby_attractions": [
+            "Mushkpuri Trek",
+            "Patriata Chairlift",
+            "Pindi Point Viewpoint"
+        ],
+        "images": [
+            "serene_residency_night_view.jpg",
+            "serene_residency_lobby.jpg",
+            "serene_residency_garden.jpg"
+        ],
+        "contact": {
+            "phone": "+92-35-1255851",
+            "email": "info@sereneresidency.com",
+            "website": "http://www.sereneresidency.net"
+        },
+        "booking_options": [
+            "Mountain View Room",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.2,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.5,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.3,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "SwatExplorer",
+                "rating": 3.5,
+                "comment": "Good value, but hot water was inconsistent."
+            }
+        ]
+    },
+    {
+        "name": "Valley Comfort",
+        "price_range": "6,500 - 13,500 PKR",
+        "rating": 4.2,
+        "location": "Murree, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9072,
+            "lng": 73.3925
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Murree.",
+        "amenities": [
+            "Airport Shuttle",
+            "Business Center",
+            "Massage",
+            "Special Diet Menus",
+            "Terrace",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Ayubia National Park",
+            "Kashmir Point",
+            "Mall Road",
+            "Patriata Chairlift"
+        ],
+        "images": [
+            "valley_comfort_reception.jpg",
+            "valley_comfort_suite.jpg",
+            "valley_comfort_terrace.jpg"
+        ],
+        "contact": {
+            "phone": "+923585115041",
+            "email": "valleycomfortresort@yahoo.com",
+            "website": "http://www.valleycomfort.pk"
+        },
+        "booking_options": [
+            "Executive Room",
+            "River View Room",
+            "Standard Double Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainDreamer",
+                "rating": 3.8,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.5,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.3,
+                "comment": "The manager personally helped arrange our local tours."
+            }
+        ]
+    },
+    {
+        "name": "Blue Plaza Deluxe",
+        "price_range": "5,500 - 9,000 PKR",
+        "rating": 4.1,
+        "location": "Kashmir Point, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9065,
+            "lng": 73.3923
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Kashmir Point.",
+        "amenities": [
+            "BBQ Facilities",
+            "Currency Exchange",
+            "Packed Lunches",
+            "Snack Bar",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Nature Walks",
+            "Photography Spots",
+            "Viewpoint"
+        ],
+        "images": [
+            "blue_plaza_deluxe_lobby.jpg",
+            "blue_plaza_deluxe_standard_room.jpg",
+            "blue_plaza_deluxe_suite.jpg",
+            "blue_plaza_deluxe_river_view.jpg"
+        ],
+        "contact": {
+            "phone": "032-6178064",
+            "email": "blueplazadeluxehotel@gmail.com",
+            "website": "https://blueplazadeluxeresort.hotels"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Family Suite",
+            "Honeymoon Suite",
+            "River View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "NomadHeart",
+                "rating": 3.2,
+                "comment": "Pleasant stay, but the road to reach the hotel is quite rough."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.9,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.3,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.7,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 3.2,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Paradise Heights",
+        "price_range": "8,500 - 22,500 PKR",
+        "rating": 4.4,
+        "location": "Mall Road, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9075,
+            "lng": 73.3928
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Swat Valley experience.",
+        "amenities": [
+            "Airport Shuttle",
+            "Bonfire Area",
+            "Evening Entertainment",
+            "Fax/Photocopying",
+            "Indoor Pool",
+            "Ironing Service",
+            "Outdoor Pool"
+        ],
+        "nearby_attractions": [
+            "Cafes",
+            "Local Markets",
+            "Restaurants",
+            "Shopping Areas"
+        ],
+        "images": [
+            "paradise_heights_lounge.jpg",
+            "paradise_heights_suite.jpg",
+            "paradise_heights_river_view.jpg",
+            "paradise_heights_deluxe_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923110908938",
+            "email": "reservations@paradiseheights.pk",
+            "website": "http://www.paradiseheights.com"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Executive Room",
+            "Honeymoon Suite",
+            "Premium Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "AdventureSoul",
+                "rating": 4.4,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.4,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Imperial Plaza Kashmir Point",
+        "price_range": "6,000 - 11,500 PKR",
+        "rating": 4.3,
+        "location": "Kashmir Point, Swat, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 33.9065,
+            "lng": 73.3923
+        },
+        "description": "Located in the heart of Kashmir Point, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "Airport Shuttle",
+            "Currency Exchange",
+            "Family Rooms",
+            "Gift Shop",
+            "Meeting Facilities",
+            "Non-smoking Rooms",
+            "Outdoor Pool",
+            "Room Service",
+            "Ski Storage",
+            "Turkish Bath"
+        ],
+        "nearby_attractions": [
+            "Nature Walks",
+            "Photography Spots",
+            "Viewpoint"
+        ],
+        "images": [
+            "imperial_plaza_kashmir_point_river_view.jpg",
+            "imperial_plaza_kashmir_point_lobby.jpg",
+            "imperial_plaza_kashmir_point_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923027164550",
+            "email": "contact@imperialplazakashmirpoint.com",
+            "website": "http://www.imperialplazakashmirpointhotel.hotels"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.6,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.1,
+                "comment": "Warm hospitality that made us feel like family."
+            }
+        ]
+    }
+]

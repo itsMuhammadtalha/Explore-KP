@@ -9,17 +9,21 @@ from components.recommendations import show_recommendations
 
 # Page configuration
 st.set_page_config(
-    page_title="Explore KP - AI Travel Guide",
+    page_title="Pakistan Travel Guide - Select City",
     page_icon="🏔️",
     layout="wide"
 )
-# new
-# Initialize data loader
-@st.cache_resource
-def get_data():
-    return DataLoader("data/swat_complete_hotels.json")
 
-data_loader = get_data()
+# Welcoming message
+st.title("Welcome to the Pakistan Travel Guide!")
+st.write("Please select a city to explore hotels and accommodations.")
+
+# City selection
+cities = ["Swat", "Murree"]  # Add more cities as needed
+selected_city = st.selectbox("Select a City", cities)
+
+# Initialize data loader based on selected city
+data_loader = DataLoader(f"/home/talha/Documents/travel-app/src/data/{selected_city.lower()}_complete_hotels.json")
 
 # Initialize session state for user management
 if 'logged_in' not in st.session_state:
