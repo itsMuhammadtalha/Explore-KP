@@ -30,8 +30,8 @@ This project is a travel application that provides users with hotel recommendati
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/travel-app.git
-cd travel-app
+git clone [https://github.com/itsMuhammadtalha/Explore-KP/](https://github.com/itsMuhammadtalha/Explore-KP/)
+
 ```
 
 ### Create a Virtual Environment (Optional but Recommended)
