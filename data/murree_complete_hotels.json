@@ -1,14 +1,14 @@
 [
     {
-        "name": "Show us your human side...",
+        "name": "Murree Gardens",
         "price_range": "5,000 - 16,000 PKR",
         "rating": 4.0,
-        "location": "Swat, Swat, Khyber Pakhtunkhwa",
+        "location": "Muree",
         "coordinates": {
             "lat": 34.651420099999996,
             "lng": 72.04022104168071
         },
-        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Swat.",
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of muree.",
         "amenities": [
             "Bicycle Rental",
             "Fitness Center",
@@ -62,12 +62,12 @@
         "name": "Pearl Resort",
         "price_range": "4,500 - 14,000 PKR",
         "rating": 4.4,
-        "location": "Swat, Swat, Khyber Pakhtunkhwa",
+        "location": "Muree",
         "coordinates": {
             "lat": 34.651420099999996,
             "lng": 72.04022104168071
         },
-        "description": "Located in the heart of Swat, this hotel combines comfort and convenience with easy access to local attractions.",
+        "description": "Located in the heart of muree, this hotel combines comfort and convenience with easy access to local attractions.",
         "amenities": [
             "24-hour Front Desk",
             "BBQ Facilities",
@@ -129,12 +129,12 @@
         "name": "Pearl Haven",
         "price_range": "4,500 - 12,000 PKR",
         "rating": 4.3,
-        "location": "Nathiagali, Swat, Khyber Pakhtunkhwa",
+        "location": "Nathiagali",
         "coordinates": {
             "lat": 34.002,
             "lng": 73.3925
         },
-        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the Swat Valley's natural beauty.",
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the muree Valley's natural beauty.",
         "amenities": [
             "Bar",
             "Bonfire Area",
@@ -183,7 +183,7 @@
                 "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
             },
             {
-                "user": "SwatExplorer",
+                "user": "mureeExplorer",
                 "rating": 3.3,
                 "comment": "Nice property but the Wi-Fi was a bit unreliable."
             },
@@ -198,7 +198,7 @@
         "name": "Paradise Residency",
         "price_range": "9,000 - 17,500 PKR",
         "rating": 4.2,
-        "location": "Murree, Swat, Khyber Pakhtunkhwa",
+        "location": "Murree",
         "coordinates": {
             "lat": 33.9072,
             "lng": 73.3925
@@ -255,7 +255,7 @@
         "name": "Blue Plaza",
         "price_range": "6,000 - 12,000 PKR",
         "rating": 4.4,
-        "location": "Nathiagali, Swat, Khyber Pakhtunkhwa",
+        "location": "Nathiagali ",
         "coordinates": {
             "lat": 34.002,
             "lng": 73.3925
@@ -319,12 +319,12 @@
         "name": "Green Retreat",
         "price_range": "9,500 - 17,000 PKR",
         "rating": 3.9,
-        "location": "Murree, Swat, Khyber Pakhtunkhwa",
+        "location": "Murree",
         "coordinates": {
             "lat": 33.9072,
             "lng": 73.3925
         },
-        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Swat Valley experience.",
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable muree Valley experience.",
         "amenities": [
             "Bar",
             "Indoor Pool",
@@ -373,7 +373,7 @@
         "name": "Peak Suites Ayubia",
         "price_range": "6,000 - 13,000 PKR",
         "rating": 4.7,
-        "location": "Ayubia, Swat, Khyber Pakhtunkhwa",
+        "location": "Ayubia ",
         "coordinates": {
             "lat": 33.911,
             "lng": 73.3927
@@ -437,7 +437,7 @@
         "name": "Luxury Hideaway",
         "price_range": "5,000 - 11,500 PKR",
         "rating": 3.8,
-        "location": "Patriata, Swat, Khyber Pakhtunkhwa",
+        "location": "Patriata ",
         "coordinates": {
             "lat": 33.908,
             "lng": 73.3922
@@ -482,7 +482,7 @@
             {
                 "user": "TravelEnthusiast",
                 "rating": 4.2,
-                "comment": "Perfect base for exploring the beautiful Swat Valley."
+                "comment": "Perfect base for exploring the beautiful muree Valley."
             }
         ]
     },
@@ -490,7 +490,7 @@
         "name": "Blue Lodge Patriata",
         "price_range": "7,000 - 11,500 PKR",
         "rating": 4.0,
-        "location": "Patriata, Swat, Khyber Pakhtunkhwa",
+        "location": "Patriata ",
         "coordinates": {
             "lat": 33.908,
             "lng": 73.3922
@@ -533,7 +533,7 @@
             {
                 "user": "ViewSeeker",
                 "rating": 4.3,
-                "comment": "Perfect base for exploring the beautiful Swat Valley."
+                "comment": "Perfect base for exploring the beautiful muree Valley."
             },
             {
                 "user": "PakVoyager",
@@ -556,7 +556,7 @@
         "name": "Silver Hotel & Restaurant",
         "price_range": "8,000 - 20,500 PKR",
         "rating": 4.0,
-        "location": "Mall Road, Swat, Khyber Pakhtunkhwa",
+        "location": "Mall Road, Murree",
         "coordinates": {
             "lat": 33.9075,
             "lng": 73.3928
@@ -611,7 +611,7 @@
             {
                 "user": "TrailBlazer",
                 "rating": 5.0,
-                "comment": "Perfect base for exploring the beautiful Swat Valley."
+                "comment": "Perfect base for exploring the beautiful muree Valley."
             }
         ]
     },
@@ -619,7 +619,7 @@
         "name": "Green Retreat",
         "price_range": "6,000 - 14,500 PKR",
         "rating": 4.4,
-        "location": "Pindi Point, Swat, Khyber Pakhtunkhwa",
+        "location": "Pindi Point ",
         "coordinates": {
             "lat": 33.906,
             "lng": 73.392
@@ -679,7 +679,7 @@
                 "comment": "Excellent location with breathtaking views of the mountains."
             },
             {
-                "user": "SwatExplorer",
+                "user": "mureeExplorer",
                 "rating": 4.2,
                 "comment": "Great value for money with excellent service."
             }
@@ -689,7 +689,7 @@
         "name": "Mountain Residency Kashmir Point",
         "price_range": "5,500 - 9,000 PKR",
         "rating": 4.3,
-        "location": "Kashmir Point, Swat, Khyber Pakhtunkhwa",
+        "location": "Kashmir Point ",
         "coordinates": {
             "lat": 33.9065,
             "lng": 73.3923
@@ -758,7 +758,7 @@
         "name": "Pearl Comfort & Spa",
         "price_range": "7,500 - 16,500 PKR",
         "rating": 3.9,
-        "location": "Murree, Swat, Khyber Pakhtunkhwa",
+        "location": "Murree",
         "coordinates": {
             "lat": 33.9072,
             "lng": 73.3925
@@ -804,7 +804,7 @@
             {
                 "user": "PakistanTraveler",
                 "rating": 4.8,
-                "comment": "Perfect base for exploring the beautiful Swat Valley."
+                "comment": "Perfect base for exploring the beautiful muree Valley."
             },
             {
                 "user": "MountainDreamer",
@@ -822,7 +822,7 @@
         "name": "Serene Haven",
         "price_range": "5,000 - 12,500 PKR",
         "rating": 4.2,
-        "location": "Kashmir Point, Swat, Khyber Pakhtunkhwa",
+        "location": "Kashmir Point",
         "coordinates": {
             "lat": 33.9065,
             "lng": 73.3923
@@ -862,7 +862,7 @@
             {
                 "user": "TrailBlazer",
                 "rating": 5.0,
-                "comment": "Perfect base for exploring the beautiful Swat Valley."
+                "comment": "Perfect base for exploring the beautiful muree Valley."
             },
             {
                 "user": "SerenitySeeker",
@@ -875,12 +875,12 @@
         "name": "Imperial Retreat Premium",
         "price_range": "6,000 - 14,000 PKR",
         "rating": 4.4,
-        "location": "Patriata, Swat, Khyber Pakhtunkhwa",
+        "location": "Patriata ",
         "coordinates": {
             "lat": 33.908,
             "lng": 73.3922
         },
-        "description": "Featuring traditional Swati architecture with modern comforts, this hotel is an ideal base for mountain adventures.",
+        "description": "Featuring traditional mureei architecture with modern comforts, this hotel is an ideal base for mountain adventures.",
         "amenities": [
             "Car Hire",
             "Laundry",
@@ -917,7 +917,7 @@
             {
                 "user": "KarakoramTrekker",
                 "rating": 5.0,
-                "comment": "Perfect base for exploring the beautiful Swat Valley."
+                "comment": "Perfect base for exploring the beautiful muree Valley."
             },
             {
                 "user": "MountainView",
@@ -930,7 +930,7 @@
         "name": "Serene Residency",
         "price_range": "5,500 - 13,000 PKR",
         "rating": 4.1,
-        "location": "Pindi Point, Swat, Khyber Pakhtunkhwa",
+        "location": "Pindi Point, ",
         "coordinates": {
             "lat": 33.906,
             "lng": 73.392
@@ -980,7 +980,7 @@
                 "comment": "Clean and spacious rooms with all the necessary amenities."
             },
             {
-                "user": "SwatExplorer",
+                "user": "mureeExplorer",
                 "rating": 3.5,
                 "comment": "Good value, but hot water was inconsistent."
             }
@@ -990,7 +990,7 @@
         "name": "Valley Comfort",
         "price_range": "6,500 - 13,500 PKR",
         "rating": 4.2,
-        "location": "Murree, Swat, Khyber Pakhtunkhwa",
+        "location": "Murree",
         "coordinates": {
             "lat": 33.9072,
             "lng": 73.3925
@@ -1048,7 +1048,7 @@
         "name": "Blue Plaza Deluxe",
         "price_range": "5,500 - 9,000 PKR",
         "rating": 4.1,
-        "location": "Kashmir Point, Swat, Khyber Pakhtunkhwa",
+        "location": "Kashmir Point",
         "coordinates": {
             "lat": 33.9065,
             "lng": 73.3923
@@ -1116,12 +1116,12 @@
         "name": "Paradise Heights",
         "price_range": "8,500 - 22,500 PKR",
         "rating": 4.4,
-        "location": "Mall Road, Swat, Khyber Pakhtunkhwa",
+        "location": "Mall Road",
         "coordinates": {
             "lat": 33.9075,
             "lng": 73.3928
         },
-        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Swat Valley experience.",
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable muree Valley experience.",
         "amenities": [
             "Airport Shuttle",
             "Bonfire Area",
@@ -1172,7 +1172,7 @@
         "name": "Imperial Plaza Kashmir Point",
         "price_range": "6,000 - 11,500 PKR",
         "rating": 4.3,
-        "location": "Kashmir Point, Swat, Khyber Pakhtunkhwa",
+        "location": "Kashmir Point",
         "coordinates": {
             "lat": 33.9065,
             "lng": 73.3923

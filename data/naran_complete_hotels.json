@@ -1,0 +1,1249 @@
+[
+    {
+        "name": "Naran Homes",
+        "price_range": "5,500 - 15,500 PKR",
+        "rating": 4.1,
+        "location": "naran, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6514201,
+            "lng": 72.040221
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "Fax/Photocopying",
+            "Gift Shop",
+            "Heating",
+            "Hot Tub",
+            "Spa",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "naran River",
+            "Ushu Forest"
+        ],
+        "images": [
+            "show_us_your_human_side____mountain_view.jpg",
+            "show_us_your_human_side____restaurant.jpg",
+            "show_us_your_human_side____lounge.jpg",
+            "show_us_your_human_side____conference_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923143024230",
+            "email": "reservations@showusyourhumanside.pk",
+            "website": "http://www.showusyourhumansidehotel.travel"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Economy Room",
+            "Premium Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 3.3,
+                "comment": "Beautiful views but limited dining options."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 3.4,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.6,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.2,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.9,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Suites naran",
+        "price_range": "5,500 - 18,000 PKR",
+        "rating": 4.6,
+        "location": "naran, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6514201,
+            "lng": 72.040221
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the naran region.",
+        "amenities": [
+            "Airport Shuttle",
+            "BBQ Facilities",
+            "Bar",
+            "Currency Exchange",
+            "Indoor Pool",
+            "River View",
+            "Spa"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums"
+        ],
+        "images": [
+            "mountain_suites_naran_lounge.jpg",
+            "mountain_suites_naran_suite.jpg",
+            "mountain_suites_naran_restaurant.jpg",
+            "mountain_suites_naran_conference_room.jpg",
+            "mountain_suites_naran_mountain_view.jpg"
+        ],
+        "contact": {
+            "phone": "+929953059498",
+            "email": "contact@mountainsuitesnaran.com",
+            "website": "http://www.mountainsuitesnaran.pk"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Mountain View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.7,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.6,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.9,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.5,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 4.2,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Luxury Palace",
+        "price_range": "4,500 - 15,000 PKR",
+        "rating": 4.2,
+        "location": "Mingora, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable naran Valley experience.",
+        "amenities": [
+            "Bicycle Rental",
+            "Family Rooms",
+            "Heating",
+            "Hot Tub",
+            "Luggage Storage",
+            "Tour Arrangements",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Mingora Bazaar",
+            "naran Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "luxury_palace_terrace.jpg",
+            "luxury_palace_reception.jpg",
+            "luxury_palace_river_view.jpg",
+            "luxury_palace_lobby.jpg"
+        ],
+        "contact": {
+            "phone": "+92-31-9089575",
+            "email": "contact@luxurypalace.com",
+            "website": "http://www.luxurypalacehotel.net"
+        },
+        "booking_options": [
+            "Honeymoon Suite",
+            "Royal Suite",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.2,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.2,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Grand Resort & Suites",
+        "price_range": "11,000 - 21,500 PKR",
+        "rating": 3.8,
+        "location": "Malam Jabba, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the naran region.",
+        "amenities": [
+            "Honeymoon Suite",
+            "Luggage Storage",
+            "Sauna",
+            "Solarium",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Ski Resort",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "grand_resort___suites_lounge.jpg",
+            "grand_resort___suites_conference_room.jpg",
+            "grand_resort___suites_garden.jpg",
+            "grand_resort___suites_restaurant.jpg"
+        ],
+        "contact": {
+            "phone": "+92-33-6282480",
+            "email": "info@grandresortandsuites.com",
+            "website": "https://grandresortandsuitesresort.com"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Royal Suite",
+            "Standard Double Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainView",
+                "rating": 3.6,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.0,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            }
+        ]
+    },
+    {
+        "name": "Silver Suites & Suites",
+        "price_range": "4,500 - 15,000 PKR",
+        "rating": 3.9,
+        "location": "Mingora, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "Bicycle Rental",
+            "Breakfast",
+            "Honeymoon Suite",
+            "Room Service"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Mingora Bazaar",
+            "naran Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "silver_suites___suites_lounge.jpg",
+            "silver_suites___suites_reception.jpg",
+            "silver_suites___suites_dining_area.jpg",
+            "silver_suites___suites_conference_room.jpg"
+        ],
+        "contact": {
+            "phone": "+92-36-7401675",
+            "email": "reservations@silversuitesandsuites.pk",
+            "website": "https://silversuitesandsuites.pk"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Executive Room",
+            "Mountain View Room",
+            "River View Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NatureLover",
+                "rating": 3.9,
+                "comment": "Good value, but hot water was inconsistent."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.8,
+                "comment": "Perfect base for exploring the beautiful naran Valley."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 3.6,
+                "comment": "Pleasant stay, but the road to reach the hotel is quite rough."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 3.6,
+                "comment": "Beautiful views but limited dining options."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 3.5,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            }
+        ]
+    },
+    {
+        "name": "Peak Haven Bahrain",
+        "price_range": "5,000 - 15,000 PKR",
+        "rating": 4.5,
+        "location": "Mingora, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the naran region.",
+        "amenities": [
+            "Bicycle Rental",
+            "Daily Housekeeping",
+            "Evening Entertainment",
+            "Fitness Center",
+            "Non-smoking Rooms",
+            "Outdoor Pool",
+            "Parking",
+            "Special Diet Menus"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Mingora Bazaar",
+            "naran Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "peak_haven_bahrain_exterior_view.jpg",
+            "peak_haven_bahrain_dining_area.jpg",
+            "peak_haven_bahrain_reception.jpg"
+        ],
+        "contact": {
+            "phone": "094-2815716",
+            "email": "reservations@peakhavenbahrain.pk",
+            "website": "https://peakhavenbahrain.com"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "naranExplorer",
+                "rating": 4.0,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 3.8,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.9,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 5.0,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.7,
+                "comment": "Perfect base for exploring the beautiful naran Valley."
+            }
+        ]
+    },
+    {
+        "name": "Royal Hotel & Suites",
+        "price_range": "5,500 - 13,500 PKR",
+        "rating": 4.0,
+        "location": "Bahrain, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.2079,
+            "lng": 72.5504
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the naran Valley's natural beauty.",
+        "amenities": [
+            "Bar",
+            "Breakfast",
+            "Dry Cleaning",
+            "Evening Entertainment",
+            "Fax/Photocopying",
+            "Heating",
+            "Honeymoon Suite",
+            "Restaurant",
+            "Solarium",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Bahrain Bazaar",
+            "Hot Springs",
+            "naran River Fishing Spots",
+            "Valley Viewpoints"
+        ],
+        "images": [
+            "royal_hotel___suites_dining_area.jpg",
+            "royal_hotel___suites_exterior_view.jpg",
+            "royal_hotel___suites_garden.jpg",
+            "royal_hotel___suites_terrace.jpg"
+        ],
+        "contact": {
+            "phone": "031-9561283",
+            "email": "royalhotelandsuitesresort@yahoo.com",
+            "website": "http://www.royalhotelandsuiteshotel.net"
+        },
+        "booking_options": [
+            "Honeymoon Suite",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NomadHeart",
+                "rating": 4.4,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 3.6,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.0,
+                "comment": "Good value, but hot water was inconsistent."
+            }
+        ]
+    },
+    {
+        "name": "Riverside Hotel",
+        "price_range": "7,500 - 12,000 PKR",
+        "rating": 4.1,
+        "location": "Miandam, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6401,
+            "lng": 72.5702
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Miandam.",
+        "amenities": [
+            "24-hour Front Desk",
+            "BBQ Facilities",
+            "Bicycle Rental",
+            "Bonfire Area",
+            "Car Hire",
+            "Library",
+            "Meeting Facilities",
+            "Mountain View",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Mountain Trekking Routes",
+            "PTDC Motel",
+            "Pine Forests",
+            "Waterfall"
+        ],
+        "images": [
+            "riverside_hotel_suite.jpg",
+            "riverside_hotel_conference_room.jpg",
+            "riverside_hotel_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "+92-33-6420628",
+            "email": "info@riversidehotel.com",
+            "website": "https://riversidehotel.pk"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Honeymoon Suite",
+            "Mountain View Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 3.2,
+                "comment": "Good location, though some rooms need updating."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.8,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "naranExplorer",
+                "rating": 4.1,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.4,
+                "comment": "The manager personally helped arrange our local tours."
+            }
+        ]
+    },
+    {
+        "name": "Silver Inn",
+        "price_range": "7,000 - 15,000 PKR",
+        "rating": 4.7,
+        "location": "Kalam, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable naran Valley experience.",
+        "amenities": [
+            "Fitness Center",
+            "Gift Shop",
+            "Meeting Facilities",
+            "Restaurant",
+            "Room Service",
+            "Safe",
+            "Special Diet Menus",
+            "Turkish Bath",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "naran River",
+            "Ushu Forest",
+            "Utror Valley"
+        ],
+        "images": [
+            "silver_inn_bathroom.jpg",
+            "silver_inn_night_view.jpg",
+            "silver_inn_reception.jpg",
+            "silver_inn_suite.jpg",
+            "silver_inn_lounge.jpg"
+        ],
+        "contact": {
+            "phone": "099-9054701",
+            "email": "contact@silverinn.com",
+            "website": "https://silverinn.pk"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Mountain View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NomadHeart",
+                "rating": 4.6,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 5.0,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 4.6,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.7,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            }
+        ]
+    },
+    {
+        "name": "Silver Comfort Mingora",
+        "price_range": "5,000 - 14,500 PKR",
+        "rating": 4.2,
+        "location": "Mingora, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Mingora.",
+        "amenities": [
+            "BBQ Facilities",
+            "Bonfire Area",
+            "Currency Exchange",
+            "Heating",
+            "Indoor Pool",
+            "Laundry",
+            "Ski Storage",
+            "Snack Bar",
+            "Spa"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Mingora Bazaar",
+            "naran Museum"
+        ],
+        "images": [
+            "silver_comfort_mingora_lounge.jpg",
+            "silver_comfort_mingora_standard_room.jpg",
+            "silver_comfort_mingora_river_view.jpg",
+            "silver_comfort_mingora_deluxe_room.jpg",
+            "silver_comfort_mingora_restaurant.jpg"
+        ],
+        "contact": {
+            "phone": "+923280743735",
+            "email": "silvercomfortmingoraresort@yahoo.com",
+            "website": "http://www.silvercomfortmingorahotel.hotels"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Economy Room",
+            "Honeymoon Suite",
+            "Mountain View Room",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.5,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.4,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 3.5,
+                "comment": "Pleasant stay, but the road to reach the hotel is quite rough."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.5,
+                "comment": "Perfect base for exploring the beautiful naran Valley."
+            }
+        ]
+    },
+    {
+        "name": "Imperial Residency Bahrain",
+        "price_range": "6,500 - 13,000 PKR",
+        "rating": 3.5,
+        "location": "Bahrain, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.2079,
+            "lng": 72.5504
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the naran Valley's natural beauty.",
+        "amenities": [
+            "Currency Exchange",
+            "Daily Housekeeping",
+            "Free WiFi",
+            "Games Room",
+            "River View",
+            "Safe",
+            "Ski Storage",
+            "Solarium",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Bahrain Bazaar",
+            "Hot Springs",
+            "naran River Fishing Spots",
+            "Valley Viewpoints"
+        ],
+        "images": [
+            "imperial_residency_bahrain_deluxe_room.jpg",
+            "imperial_residency_bahrain_standard_room.jpg",
+            "imperial_residency_bahrain_lobby.jpg"
+        ],
+        "contact": {
+            "phone": "+92-33-3798578",
+            "email": "contact@imperialresidencybahrain.com",
+            "website": "https://imperialresidencybahrainresort.net"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Premium Room",
+            "Royal Suite",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 3.9,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 3.2,
+                "comment": "Good value, but hot water was inconsistent."
+            }
+        ]
+    },
+    {
+        "name": "Grand Haven Madyan",
+        "price_range": "6,000 - 10,500 PKR",
+        "rating": 4.0,
+        "location": "Madyan, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "Located in the heart of Madyan, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Breakfast",
+            "Family Rooms",
+            "Fax/Photocopying",
+            "Free WiFi",
+            "Games Room",
+            "Heating",
+            "Honeymoon Suite",
+            "Meeting Facilities",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "grand_haven_madyan_lobby.jpg",
+            "grand_haven_madyan_suite.jpg",
+            "grand_haven_madyan_garden.jpg"
+        ],
+        "contact": {
+            "phone": "+923072826252",
+            "email": "reservations@grandhavenmadyan.pk",
+            "website": "http://www.grandhavenmadyanhotel.com"
+        },
+        "booking_options": [
+            "Premium Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.7,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 3.8,
+                "comment": "Pleasant stay, but the road to reach the hotel is quite rough."
+            },
+            {
+                "user": "PakVoyager",
+                "rating": 4.1,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.2,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 3.1,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            }
+        ]
+    },
+    {
+        "name": "Grand Hideaway Bahrain",
+        "price_range": "9,500 - 25,000 PKR",
+        "rating": 4.1,
+        "location": "Malam Jabba, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Business Center",
+            "Meeting Facilities",
+            "Non-smoking Rooms",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Malam Jabba Peak",
+            "Ski Resort",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "grand_hideaway_bahrain_mountain_view.jpg",
+            "grand_hideaway_bahrain_exterior_view.jpg",
+            "grand_hideaway_bahrain_reception.jpg"
+        ],
+        "contact": {
+            "phone": "+92-34-8732268",
+            "email": "contact@grandhideawaybahrain.com",
+            "website": "https://grandhideawaybahrain.pk"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Economy Room",
+            "Premium Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.6,
+                "comment": "Perfect base for exploring the beautiful naran Valley."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 3.6,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.1,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Royal Plaza",
+        "price_range": "4,500 - 10,500 PKR",
+        "rating": 4.1,
+        "location": "Madyan, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "Bar",
+            "Evening Entertainment",
+            "Parking",
+            "Sauna"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "royal_plaza_restaurant.jpg",
+            "royal_plaza_conference_room.jpg",
+            "royal_plaza_night_view.jpg",
+            "royal_plaza_lobby.jpg",
+            "royal_plaza_exterior_view.jpg"
+        ],
+        "contact": {
+            "phone": "+929925468527",
+            "email": "royalplazaresort@yahoo.com",
+            "website": "https://royalplazaresort.hotels"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Executive Room",
+            "Royal Suite",
+            "Standard Double Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainView",
+                "rating": 4.4,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.7,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            }
+        ]
+    },
+    {
+        "name": "Golden Hotel",
+        "price_range": "6,000 - 10,000 PKR",
+        "rating": 4.1,
+        "location": "Bahrain, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.2079,
+            "lng": 72.5504
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable naran Valley experience.",
+        "amenities": [
+            "Bonfire Area",
+            "Evening Entertainment",
+            "Non-smoking Rooms",
+            "Outdoor Pool",
+            "Safe",
+            "Ski Storage"
+        ],
+        "nearby_attractions": [
+            "Bahrain Bazaar",
+            "Hot Springs",
+            "naran River Fishing Spots",
+            "Valley Viewpoints"
+        ],
+        "images": [
+            "golden_hotel_conference_room.jpg",
+            "golden_hotel_reception.jpg",
+            "golden_hotel_terrace.jpg",
+            "golden_hotel_exterior_view.jpg",
+            "golden_hotel_lounge.jpg"
+        ],
+        "contact": {
+            "phone": "+92-99-5297750",
+            "email": "reservations@goldenhotel.pk",
+            "website": "https://goldenhotel.travel"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Family Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 3.9,
+                "comment": "Pleasant stay, but the road to reach the hotel is quite rough."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 3.7,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.9,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 3.8,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.4,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            }
+        ]
+    },
+    {
+        "name": "Crystal Hideaway Malam Jabba",
+        "price_range": "9,000 - 21,500 PKR",
+        "rating": 4.2,
+        "location": "Malam Jabba, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the naran region.",
+        "amenities": [
+            "Fax/Photocopying",
+            "Hot Tub",
+            "Ironing Service",
+            "Sauna"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Ski Resort",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "crystal_hideaway_malam_jabba_mountain_view.jpg",
+            "crystal_hideaway_malam_jabba_lobby.jpg",
+            "crystal_hideaway_malam_jabba_conference_room.jpg",
+            "crystal_hideaway_malam_jabba_standard_room.jpg",
+            "crystal_hideaway_malam_jabba_garden.jpg"
+        ],
+        "contact": {
+            "phone": "035-2804514",
+            "email": "contact@crystalhideawaymalamjabba.com",
+            "website": "https://crystalhideawaymalamjabbaresort.com"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainExplorer",
+                "rating": 4.0,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.9,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "MountainView",
+                "rating": 3.6,
+                "comment": "Beautiful views but limited dining options."
+            }
+        ]
+    },
+    {
+        "name": "Luxury Hideaway & Resort",
+        "price_range": "4,500 - 8,500 PKR",
+        "rating": 4.2,
+        "location": "Saidu Sharif, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the naran region.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Bonfire Area",
+            "Business Center",
+            "Daily Housekeeping",
+            "Gift Shop",
+            "Ironing Service",
+            "Library",
+            "Special Diet Menus",
+            "Tour Arrangements",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Local Museums",
+            "naran Royal Palace"
+        ],
+        "images": [
+            "luxury_hideaway___resort_dining_area.jpg",
+            "luxury_hideaway___resort_terrace.jpg",
+            "luxury_hideaway___resort_deluxe_room.jpg",
+            "luxury_hideaway___resort_suite.jpg"
+        ],
+        "contact": {
+            "phone": "+92-35-2260833",
+            "email": "contact@luxuryhideawayandresort.com",
+            "website": "https://luxuryhideawayandresortresort.pk"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Family Suite",
+            "Honeymoon Suite",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainView",
+                "rating": 3.5,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.9,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Royal Suites",
+        "price_range": "10,500 - 20,500 PKR",
+        "rating": 4.3,
+        "location": "Malam Jabba, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "BBQ Facilities",
+            "Bar",
+            "Breakfast",
+            "Dry Cleaning",
+            "Evening Entertainment",
+            "Family Rooms",
+            "Library",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Malam Jabba Peak",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "royal_suites_bathroom.jpg",
+            "royal_suites_river_view.jpg",
+            "royal_suites_night_view.jpg",
+            "royal_suites_exterior_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923540300785",
+            "email": "royalsuiteshotel@gmail.com",
+            "website": "https://royalsuitesresort.hotels"
+        },
+        "booking_options": [
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.6,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.4,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.1,
+                "comment": "Perfect base for exploring the beautiful naran Valley."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.3,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Green Palace Madyan",
+        "price_range": "5,500 - 13,000 PKR",
+        "rating": 3.9,
+        "location": "Madyan, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Madyan.",
+        "amenities": [
+            "Evening Entertainment",
+            "Garden",
+            "Gift Shop",
+            "Library",
+            "Meeting Facilities",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "green_palace_madyan_lobby.jpg",
+            "green_palace_madyan_river_view.jpg",
+            "green_palace_madyan_reception.jpg",
+            "green_palace_madyan_mountain_view.jpg",
+            "green_palace_madyan_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "094-1472812",
+            "email": "greenpalacemadyanresort@yahoo.com",
+            "website": "http://www.greenpalacemadyanhotel.hotels"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Honeymoon Suite",
+            "Premium Room",
+            "Royal Suite",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.1,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.7,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Crystal Lodge Kalam",
+        "price_range": "9,000 - 18,500 PKR",
+        "rating": 4.1,
+        "location": "Kalam, naran, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable naran Valley experience.",
+        "amenities": [
+            "BBQ Facilities",
+            "Dry Cleaning",
+            "Meeting Facilities",
+            "Mountain View",
+            "Outdoor Pool",
+            "Ski Storage",
+            "Special Diet Menus",
+            "Tour Desk",
+            "Turkish Bath"
+        ],
+        "nearby_attractions": [
+            "Matiltan Valley",
+            "naran River",
+            "Utror Valley"
+        ],
+        "images": [
+            "crystal_lodge_kalam_bathroom.jpg",
+            "crystal_lodge_kalam_garden.jpg",
+            "crystal_lodge_kalam_night_view.jpg",
+            "crystal_lodge_kalam_restaurant.jpg",
+            "crystal_lodge_kalam_conference_room.jpg"
+        ],
+        "contact": {
+            "phone": "+92-99-9554381",
+            "email": "reservations@crystallodgekalam.pk",
+            "website": "https://crystallodgekalamresort.travel"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Mountain View Room",
+            "River View Room",
+            "Royal Suite",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.8,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 4.3,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 3.1,
+                "comment": "Good value, but hot water was inconsistent."
+            }
+        ]
+    }
+]

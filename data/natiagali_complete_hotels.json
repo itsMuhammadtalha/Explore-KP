@@ -1,0 +1,1235 @@
+[
+    {
+        "name": "Golden Comfort & Spa",
+        "price_range": "5,000 - 15,500 PKR",
+        "rating": 4.5,
+        "location": "nathiagali, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6514201,
+            "lng": 72.040221
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Elevator",
+            "Ironing Service",
+            "Packed Lunches",
+            "Restaurant"
+        ],
+        "nearby_attractions": [
+            "Bahrain Bazaar",
+            "Hot Springs",
+            "nathiagali River Fishing Spots"
+        ],
+        "images": [
+            "show_us_your_human_side____terrace.jpg",
+            "show_us_your_human_side____lounge.jpg",
+            "show_us_your_human_side____garden.jpg",
+            "show_us_your_human_side____mountain_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923327246384",
+            "email": "Goldencomfort@yahoo.com",
+            "website": "http://www.goldencomfortandspa.hotels"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Mountain View Room",
+            "River View Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainView",
+                "rating": 4.7,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.3,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Green Resort nathiagali",
+        "price_range": "5,500 - 15,000 PKR",
+        "rating": 4.3,
+        "location": "nathiagali, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6514201,
+            "lng": 72.040221
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Airport Shuttle",
+            "Bar",
+            "Library",
+            "Meeting Facilities",
+            "Parking",
+            "Restaurant",
+            "Terrace",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Mountain Trekking Routes",
+            "PTDC Motel",
+            "Summer Cottages",
+            "Waterfall"
+        ],
+        "images": [
+            "green_resort_nathiagali_exterior_view.jpg",
+            "green_resort_nathiagali_river_view.jpg",
+            "green_resort_nathiagali_deluxe_room.jpg"
+        ],
+        "contact": {
+            "phone": "032-5448638",
+            "email": "greenresortnathiagaliresort@yahoo.com",
+            "website": "https://greenresortnathiagali.com"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Honeymoon Suite",
+            "River View Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 3.6,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 4.3,
+                "comment": "Perfect base for exploring the beautiful nathiagali Valley."
+            },
+            {
+                "user": "nathiagaliExplorer",
+                "rating": 5.0,
+                "comment": "The manager personally helped arrange our local tours."
+            }
+        ]
+    },
+    {
+        "name": "Silver Inn",
+        "price_range": "3,500 - 8,500 PKR",
+        "rating": 4.1,
+        "location": "Saidu Sharif, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "Airport Shuttle",
+            "Bonfire Area",
+            "Car Hire",
+            "Elevator",
+            "Library",
+            "Luggage Storage",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "nathiagali Royal Palace"
+        ],
+        "images": [
+            "silver_inn_river_view.jpg",
+            "silver_inn_dining_area.jpg",
+            "silver_inn_conference_room.jpg",
+            "silver_inn_bathroom.jpg",
+            "silver_inn_deluxe_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923224489308",
+            "email": "silverinnresort@yahoo.com",
+            "website": "http://www.silverinnhotel.travel"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Premium Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.6,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "nathiagaliExplorer",
+                "rating": 4.9,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 3.2,
+                "comment": "Good value, but hot water was inconsistent."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.4,
+                "comment": "Perfect base for exploring the beautiful nathiagali Valley."
+            },
+            {
+                "user": "PakVoyager",
+                "rating": 3.2,
+                "comment": "Good value, but hot water was inconsistent."
+            }
+        ]
+    },
+    {
+        "name": "Golden Comfort & Spa",
+        "price_range": "7,000 - 14,500 PKR",
+        "rating": 4.3,
+        "location": "Kalam, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable nathiagali Valley experience.",
+        "amenities": [
+            "Currency Exchange",
+            "Non-smoking Rooms",
+            "Tour Desk",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Matiltan Valley",
+            "Utror Valley"
+        ],
+        "images": [
+            "golden_comfort___spa_deluxe_room.jpg",
+            "golden_comfort___spa_terrace.jpg",
+            "golden_comfort___spa_reception.jpg"
+        ],
+        "contact": {
+            "phone": "031-5382089",
+            "email": "goldencomfortandspahotel@gmail.com",
+            "website": "http://www.goldencomfortandspa.hotels"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainExplorer",
+                "rating": 4.9,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 3.8,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Blue Hotel",
+        "price_range": "5,000 - 10,000 PKR",
+        "rating": 4.7,
+        "location": "Madyan, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the nathiagali Valley's natural beauty.",
+        "amenities": [
+            "BBQ Facilities",
+            "Bonfire Area",
+            "Family Rooms",
+            "River View"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "blue_hotel_restaurant.jpg",
+            "blue_hotel_bathroom.jpg",
+            "blue_hotel_mountain_view.jpg",
+            "blue_hotel_river_view.jpg"
+        ],
+        "contact": {
+            "phone": "+92-31-3777742",
+            "email": "info@bluehotel.com",
+            "website": "https://bluehotel.net"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Economy Room",
+            "Mountain View Room",
+            "River View Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 4.9,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 4.8,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "nathiagaliExplorer",
+                "rating": 4.5,
+                "comment": "Perfect base for exploring the beautiful nathiagali Valley."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.4,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            }
+        ]
+    },
+    {
+        "name": "Riverside Hideaway",
+        "price_range": "10,000 - 18,500 PKR",
+        "rating": 4.5,
+        "location": "Malam Jabba, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Bonfire Area",
+            "Currency Exchange",
+            "Elevator",
+            "Fax/Photocopying",
+            "Fitness Center",
+            "Free WiFi",
+            "Ironing Service",
+            "Library",
+            "Packed Lunches",
+            "River View"
+        ],
+        "nearby_attractions": [
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "riverside_hideaway_garden.jpg",
+            "riverside_hideaway_terrace.jpg",
+            "riverside_hideaway_mountain_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923499033146",
+            "email": "contact@riversidehideaway.com",
+            "website": "http://www.riversidehideaway.travel"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Mountain View Room",
+            "Premium Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PakVoyager",
+                "rating": 4.8,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.6,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.0,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Imperial View & Spa",
+        "price_range": "4,500 - 8,500 PKR",
+        "rating": 3.9,
+        "location": "Saidu Sharif, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Saidu Sharif.",
+        "amenities": [
+            "Bicycle Rental",
+            "Breakfast",
+            "Games Room",
+            "Safe",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "nathiagali Royal Palace"
+        ],
+        "images": [
+            "imperial_view___spa_river_view.jpg",
+            "imperial_view___spa_conference_room.jpg",
+            "imperial_view___spa_reception.jpg"
+        ],
+        "contact": {
+            "phone": "031-8076919",
+            "email": "imperialviewandsparesort@yahoo.com",
+            "website": "https://imperialviewandspa.pk"
+        },
+        "booking_options": [
+            "Royal Suite",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ViewSeeker",
+                "rating": 3.7,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.6,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 5.0,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 3.1,
+                "comment": "Pleasant stay, but the road to reach the hotel is quite rough."
+            }
+        ]
+    },
+    {
+        "name": "Crystal Heights & Resort",
+        "price_range": "6,500 - 15,500 PKR",
+        "rating": 4.6,
+        "location": "Kalam, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Kalam.",
+        "amenities": [
+            "BBQ Facilities",
+            "Bicycle Rental",
+            "Bonfire Area",
+            "Currency Exchange",
+            "Daily Housekeeping",
+            "Family Rooms",
+            "Meeting Facilities",
+            "River View",
+            "Safe",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Matiltan Valley",
+            "nathiagali River",
+            "Ushu Forest",
+            "Utror Valley"
+        ],
+        "images": [
+            "crystal_heights___resort_night_view.jpg",
+            "crystal_heights___resort_suite.jpg",
+            "crystal_heights___resort_exterior_view.jpg"
+        ],
+        "contact": {
+            "phone": "036-5331729",
+            "email": "info@crystalheightsandresort.com",
+            "website": "http://www.crystalheightsandresorthotel.net"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Family Suite",
+            "Honeymoon Suite",
+            "River View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "PakVoyager",
+                "rating": 4.6,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 5.0,
+                "comment": "Perfect base for exploring the beautiful nathiagali Valley."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.4,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.5,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.7,
+                "comment": "The manager personally helped arrange our local tours."
+            }
+        ]
+    },
+    {
+        "name": "Crystal Palace",
+        "price_range": "5,000 - 12,500 PKR",
+        "rating": 4.4,
+        "location": "Madyan, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the nathiagali region.",
+        "amenities": [
+            "Bicycle Rental",
+            "Daily Housekeeping",
+            "Evening Entertainment",
+            "Games Room",
+            "Hot Tub",
+            "Special Diet Menus"
+        ],
+        "nearby_attractions": [
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "crystal_palace_exterior_view.jpg",
+            "crystal_palace_suite.jpg",
+            "crystal_palace_deluxe_room.jpg"
+        ],
+        "contact": {
+            "phone": "036-7449792",
+            "email": "info@crystalpalace.com",
+            "website": "http://www.crystalpalace.com"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Economy Room",
+            "Premium Room",
+            "River View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.6,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 4.1,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.2,
+                "comment": "Perfect base for exploring the beautiful nathiagali Valley."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.4,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.6,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Suites & Suites",
+        "price_range": "5,500 - 10,500 PKR",
+        "rating": 4.5,
+        "location": "Madyan, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the nathiagali Valley's natural beauty.",
+        "amenities": [
+            "Evening Entertainment",
+            "Family Rooms",
+            "Laundry",
+            "Room Service"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "mountain_suites___suites_river_view.jpg",
+            "mountain_suites___suites_conference_room.jpg",
+            "mountain_suites___suites_standard_room.jpg",
+            "mountain_suites___suites_dining_area.jpg",
+            "mountain_suites___suites_suite.jpg"
+        ],
+        "contact": {
+            "phone": "+92-33-2655635",
+            "email": "mountainsuitesandsuitesresort@yahoo.com",
+            "website": "https://mountainsuitesandsuites.com"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Mountain View Room",
+            "Premium Room",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainView",
+                "rating": 4.7,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.3,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.7,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "nathiagaliExplorer",
+                "rating": 4.4,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Royal Heights & Suites",
+        "price_range": "7,000 - 15,000 PKR",
+        "rating": 4.1,
+        "location": "Kalam, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable nathiagali Valley experience.",
+        "amenities": [
+            "Currency Exchange",
+            "Gift Shop",
+            "Massage",
+            "River View"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "nathiagali River",
+            "Ushu Forest",
+            "Utror Valley"
+        ],
+        "images": [
+            "royal_heights___suites_lounge.jpg",
+            "royal_heights___suites_standard_room.jpg",
+            "royal_heights___suites_reception.jpg",
+            "royal_heights___suites_lobby.jpg",
+            "royal_heights___suites_night_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923213199996",
+            "email": "contact@royalheightsandsuites.com",
+            "website": "http://www.royalheightsandsuites.travel"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Family Suite",
+            "River View Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.3,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.5,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 3.6,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.5,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "HillsAndValleys",
+                "rating": 3.5,
+                "comment": "Beautiful views but limited dining options."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Hideaway",
+        "price_range": "4,000 - 14,500 PKR",
+        "rating": 4.6,
+        "location": "Mingora, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Airport Shuttle",
+            "Business Center",
+            "Games Room",
+            "Gift Shop",
+            "Library",
+            "Packed Lunches"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Mingora Bazaar",
+            "nathiagali Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "mountain_hideaway_suite.jpg",
+            "mountain_hideaway_standard_room.jpg",
+            "mountain_hideaway_mountain_view.jpg"
+        ],
+        "contact": {
+            "phone": "+92-36-5523610",
+            "email": "contact@mountainhideaway.com",
+            "website": "http://www.mountainhideawayhotel.travel"
+        },
+        "booking_options": [
+            "Honeymoon Suite",
+            "River View Room",
+            "Royal Suite",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.4,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "TrailBlazer",
+                "rating": 4.8,
+                "comment": "Perfect base for exploring the beautiful nathiagali Valley."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.4,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 4.9,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Peak Heights",
+        "price_range": "4,000 - 9,500 PKR",
+        "rating": 4.4,
+        "location": "Saidu Sharif, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Saidu Sharif.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Car Hire",
+            "Massage",
+            "Outdoor Pool",
+            "Parking",
+            "Ski Storage",
+            "Spa"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "nathiagali Royal Palace"
+        ],
+        "images": [
+            "peak_heights_dining_area.jpg",
+            "peak_heights_exterior_view.jpg",
+            "peak_heights_mountain_view.jpg",
+            "peak_heights_terrace.jpg"
+        ],
+        "contact": {
+            "phone": "032-4941008",
+            "email": "peakheightshotel@gmail.com",
+            "website": "https://peakheightsresort.hotels"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Royal Suite",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.9,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 3.9,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Peak Inn International",
+        "price_range": "4,000 - 12,000 PKR",
+        "rating": 4.0,
+        "location": "Mingora, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable nathiagali Valley experience.",
+        "amenities": [
+            "Fax/Photocopying",
+            "Games Room",
+            "Garden",
+            "Hot Tub",
+            "Packed Lunches",
+            "Room Service",
+            "Spa",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Mingora Bazaar",
+            "nathiagali Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "peak_inn_international_standard_room.jpg",
+            "peak_inn_international_river_view.jpg",
+            "peak_inn_international_lounge.jpg"
+        ],
+        "contact": {
+            "phone": "+92-94-5294590",
+            "email": "reservations@peakinninternational.pk",
+            "website": "https://peakinninternationalresort.pk"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Mountain View Room",
+            "Premium Room",
+            "River View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.6,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.5,
+                "comment": "Good value, but hot water was inconsistent."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 4.6,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "TrailBlazer",
+                "rating": 3.4,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            }
+        ]
+    },
+    {
+        "name": "Royal Hotel & Suites",
+        "price_range": "5,000 - 12,500 PKR",
+        "rating": 4.5,
+        "location": "Bahrain, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.2079,
+            "lng": 72.5504
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "Bonfire Area",
+            "Dry Cleaning",
+            "Family Rooms",
+            "Luggage Storage",
+            "Outdoor Pool",
+            "Restaurant",
+            "Sauna",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Bahrain Bazaar",
+            "Hot Springs",
+            "nathiagali River Fishing Spots"
+        ],
+        "images": [
+            "royal_hotel___suites_exterior_view.jpg",
+            "royal_hotel___suites_deluxe_room.jpg",
+            "royal_hotel___suites_lobby.jpg"
+        ],
+        "contact": {
+            "phone": "+923045688102",
+            "email": "info@royalhotelandsuites.com",
+            "website": "http://www.royalhotelandsuiteshotel.com"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.0,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.7,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.9,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            }
+        ]
+    },
+    {
+        "name": "Royal Comfort",
+        "price_range": "5,500 - 11,500 PKR",
+        "rating": 4.6,
+        "location": "Mingora, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Featuring traditional nathiagalii architecture with modern comforts, this hotel is an ideal base for mountain adventures.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Business Center",
+            "Daily Housekeeping",
+            "Gift Shop",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Green Square",
+            "nathiagali Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "royal_comfort_garden.jpg",
+            "royal_comfort_restaurant.jpg",
+            "royal_comfort_conference_room.jpg",
+            "royal_comfort_night_view.jpg"
+        ],
+        "contact": {
+            "phone": "+929450905944",
+            "email": "reservations@royalcomfort.pk",
+            "website": "https://royalcomfort.net"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Honeymoon Suite",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainExplorer",
+                "rating": 4.3,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.6,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "PakVoyager",
+                "rating": 4.2,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 4.8,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 5.0,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            }
+        ]
+    },
+    {
+        "name": "Blue Residency",
+        "price_range": "6,500 - 15,500 PKR",
+        "rating": 4.5,
+        "location": "Miandam, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6401,
+            "lng": 72.5702
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Airport Shuttle",
+            "Family Rooms",
+            "Laundry",
+            "Meeting Facilities",
+            "Non-smoking Rooms",
+            "Room Service",
+            "Safe"
+        ],
+        "nearby_attractions": [
+            "Mountain Trekking Routes",
+            "Pine Forests",
+            "Summer Cottages",
+            "Waterfall"
+        ],
+        "images": [
+            "blue_residency_conference_room.jpg",
+            "blue_residency_night_view.jpg",
+            "blue_residency_garden.jpg",
+            "blue_residency_river_view.jpg",
+            "blue_residency_suite.jpg"
+        ],
+        "contact": {
+            "phone": "099-4910160",
+            "email": "reservations@blueresidency.pk",
+            "website": "http://www.blueresidencyhotel.travel"
+        },
+        "booking_options": [
+            "Mountain View Room",
+            "Premium Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 4.1,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.8,
+                "comment": "Perfect base for exploring the beautiful nathiagali Valley."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.7,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Grand View",
+        "price_range": "4,000 - 10,000 PKR",
+        "rating": 4.0,
+        "location": "Saidu Sharif, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "Featuring traditional nathiagalii architecture with modern comforts, this hotel is an ideal base for mountain adventures.",
+        "amenities": [
+            "Breakfast",
+            "Laundry",
+            "Ski Storage",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "nathiagali Royal Palace"
+        ],
+        "images": [
+            "grand_view_standard_room.jpg",
+            "grand_view_lobby.jpg",
+            "grand_view_night_view.jpg",
+            "grand_view_terrace.jpg"
+        ],
+        "contact": {
+            "phone": "+92-32-8722381",
+            "email": "reservations@grandview.pk",
+            "website": "https://grandview.travel"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ValleyHiker",
+                "rating": 4.2,
+                "comment": "Perfect base for exploring the beautiful nathiagali Valley."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.7,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 3.3,
+                "comment": "Beautiful views but limited dining options."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 3.4,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.2,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Valley Inn",
+        "price_range": "5,500 - 15,500 PKR",
+        "rating": 4.0,
+        "location": "Mingora, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "Business Center",
+            "Elevator",
+            "Fitness Center",
+            "Heating",
+            "Indoor Pool",
+            "Restaurant",
+            "Ski Storage"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Mingora Bazaar",
+            "nathiagali Museum"
+        ],
+        "images": [
+            "valley_inn_conference_room.jpg",
+            "valley_inn_bathroom.jpg",
+            "valley_inn_terrace.jpg",
+            "valley_inn_exterior_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923442267624",
+            "email": "reservations@valleyinn.pk",
+            "website": "http://www.valleyinn.travel"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Mountain View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.2,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "nathiagaliExplorer",
+                "rating": 3.7,
+                "comment": "Good value, but hot water was inconsistent."
+            }
+        ]
+    },
+    {
+        "name": "Crown Palace",
+        "price_range": "4,500 - 12,500 PKR",
+        "rating": 4.0,
+        "location": "Madyan, nathiagali, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the nathiagali region.",
+        "amenities": [
+            "Breakfast",
+            "Car Hire",
+            "Elevator",
+            "Gift Shop"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "crown_palace_reception.jpg",
+            "crown_palace_conference_room.jpg",
+            "crown_palace_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "034-3747590",
+            "email": "info@crownpalace.com",
+            "website": "https://crownpalace.travel"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Honeymoon Suite",
+            "Mountain View Room",
+            "Premium Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainDreamer",
+                "rating": 3.0,
+                "comment": "Good location, though some rooms need updating."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.4,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.7,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            }
+        ]
+    }
+]

@@ -19,11 +19,20 @@ st.title("Welcome to the Pakistan Travel Guide!")
 st.write("Please select a city to explore hotels and accommodations.")
 
 # City selection
-cities = ["Swat", "Murree"]  # Add more cities as needed
+cities = ["Swat", "Murree", "Ayubia","Natiagali","Hunza", "Kashmir"]  # Add more cities as needed
 selected_city = st.selectbox("Select a City", cities)
 
-# Initialize data loader based on selected city
 data_loader = DataLoader(f"data/{selected_city.lower()}_complete_hotels.json")
+
+        
+
+                 
+            # Proceed to display hotels
+            # ... (existing hotel display code) ...
+    
+
+# Initialize data loader based on selected city
+#data_loader = DataLoader(f"/home/talha/Documents/travel-app/src/data/{selected_city.lower()}_complete_hotels.json")
 
 # Initialize session state for user management
 if 'logged_in' not in st.session_state:

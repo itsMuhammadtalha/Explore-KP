@@ -1,0 +1,1207 @@
+[
+    {
+        "name": "Crown Resort",
+        "price_range": "5,000 - 16,500 PKR",
+        "rating": 4.4,
+        "location": "Kashmir, Gilgit",
+        "coordinates": {
+            "lat": 34.6514201,
+            "lng": 72.040221
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Gigit Valley experience.",
+        "amenities": [
+            "Airport Shuttle",
+            "Library",
+            "Solarium",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Matiltan Valley",
+            "Gigit River",
+            "Utror Valley"
+        ],
+        "images": [
+            "show_us_your_human_side____lobby.jpg",
+            "show_us_your_human_side____dining_area.jpg",
+            "show_us_your_human_side____mountain_view.jpg",
+            "show_us_your_human_side____terrace.jpg",
+            "show_us_your_human_side____lounge.jpg"
+        ],
+        "contact": {
+            "phone": "+92-99-8410108",
+            "email": "info@showusyourhumanside.com",
+            "website": "https://showusyourhumanside.net"
+        },
+        "booking_options": [
+            "Mountain View Room",
+            "River View Room",
+            "Standard Double Room",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NomadHeart",
+                "rating": 3.5,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.8,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.1,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.9,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.8,
+                "comment": "Perfect base for exploring the beautiful Gigit Valley."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Retreat Exclusive",
+        "price_range": "5,000 - 17,500 PKR",
+        "rating": 3.9,
+        "location": "Gigit, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6514201,
+            "lng": 72.040221
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Bicycle Rental",
+            "Evening Entertainment",
+            "Fax/Photocopying",
+            "Honeymoon Suite",
+            "Meeting Facilities",
+            "Mountain View",
+            "Ski Storage",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Bahrain Bazaar",
+            "Hot Springs",
+            "Valley Viewpoints"
+        ],
+        "images": [
+            "mountain_retreat_exclusive_conference_room.jpg",
+            "mountain_retreat_exclusive_deluxe_room.jpg",
+            "mountain_retreat_exclusive_bathroom.jpg",
+            "mountain_retreat_exclusive_reception.jpg",
+            "mountain_retreat_exclusive_lobby.jpg"
+        ],
+        "contact": {
+            "phone": "+92-32-8533314",
+            "email": "info@mountainretreatexclusive.com",
+            "website": "http://www.mountainretreatexclusive.travel"
+        },
+        "booking_options": [
+            "Royal Suite",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 3.7,
+                "comment": "Good value, but hot water was inconsistent."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.0,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            }
+        ]
+    },
+    {
+        "name": "Crown Resort",
+        "price_range": "4,500 - 11,500 PKR",
+        "rating": 4.5,
+        "location": "Madyan, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Madyan.",
+        "amenities": [
+            "Car Hire",
+            "Daily Housekeeping",
+            "Dry Cleaning",
+            "Garden",
+            "Gift Shop",
+            "Hot Tub",
+            "Spa",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "crown_resort_bathroom.jpg",
+            "crown_resort_lobby.jpg",
+            "crown_resort_night_view.jpg",
+            "crown_resort_dining_area.jpg"
+        ],
+        "contact": {
+            "phone": "032-9553867",
+            "email": "crownresorthotel@gmail.com",
+            "website": "https://crownresort.travel"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Economy Room",
+            "River View Room",
+            "Standard Double Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.4,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "GigitExplorer",
+                "rating": 4.2,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 5.0,
+                "comment": "Perfect base for exploring the beautiful Gigit Valley."
+            }
+        ]
+    },
+    {
+        "name": "Luxury Hotel & Suites",
+        "price_range": "5,500 - 11,500 PKR",
+        "rating": 4.2,
+        "location": "Madyan, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the Gigit region.",
+        "amenities": [
+            "BBQ Facilities",
+            "Bonfire Area",
+            "Business Center",
+            "Fax/Photocopying",
+            "Honeymoon Suite",
+            "Massage",
+            "Meeting Facilities",
+            "Safe"
+        ],
+        "nearby_attractions": [
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "luxury_hotel___suites_reception.jpg",
+            "luxury_hotel___suites_conference_room.jpg",
+            "luxury_hotel___suites_terrace.jpg"
+        ],
+        "contact": {
+            "phone": "+92-32-7746575",
+            "email": "info@luxuryhotelandsuites.com",
+            "website": "http://www.luxuryhotelandsuiteshotel.com"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Honeymoon Suite",
+            "Premium Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ViewSeeker",
+                "rating": 4.6,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 3.5,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            },
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.8,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.1,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.2,
+                "comment": "The manager personally helped arrange our local tours."
+            }
+        ]
+    },
+    {
+        "name": "Imperial Lodge & Spa",
+        "price_range": "8,000 - 25,500 PKR",
+        "rating": 3.9,
+        "location": "Malam Jabba, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "Located in the heart of Malam Jabba, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "Airport Shuttle",
+            "Elevator",
+            "Free WiFi",
+            "Ironing Service",
+            "Luggage Storage",
+            "Non-smoking Rooms",
+            "Parking",
+            "Spa"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Ski Resort",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "imperial_lodge___spa_lobby.jpg",
+            "imperial_lodge___spa_reception.jpg",
+            "imperial_lodge___spa_night_view.jpg",
+            "imperial_lodge___spa_bathroom.jpg"
+        ],
+        "contact": {
+            "phone": "+92-31-3192510",
+            "email": "info@imperiallodgeandspa.com",
+            "website": "https://imperiallodgeandspa.net"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Honeymoon Suite",
+            "River View Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PeacefulWanderer",
+                "rating": 3.0,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.7,
+                "comment": "Warm hospitality that made us feel like family."
+            }
+        ]
+    },
+    {
+        "name": "Paradise Heights Miandam",
+        "price_range": "8,000 - 15,500 PKR",
+        "rating": 4.3,
+        "location": "Miandam, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6401,
+            "lng": 72.5702
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the Gigit region.",
+        "amenities": [
+            "BBQ Facilities",
+            "Car Hire",
+            "Fax/Photocopying",
+            "Fitness Center",
+            "Laundry",
+            "Mountain View",
+            "Packed Lunches",
+            "Solarium"
+        ],
+        "nearby_attractions": [
+            "Mountain Trekking Routes",
+            "PTDC Motel",
+            "Pine Forests",
+            "Summer Cottages",
+            "Waterfall"
+        ],
+        "images": [
+            "paradise_heights_miandam_lobby.jpg",
+            "paradise_heights_miandam_exterior_view.jpg",
+            "paradise_heights_miandam_night_view.jpg"
+        ],
+        "contact": {
+            "phone": "034-4107915",
+            "email": "paradiseheightsmiandamresort@yahoo.com",
+            "website": "https://paradiseheightsmiandam.pk"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Executive Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 4.1,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.6,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Retreat Kalam",
+        "price_range": "7,500 - 18,000 PKR",
+        "rating": 4.4,
+        "location": "Kalam, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Kalam.",
+        "amenities": [
+            "Car Hire",
+            "Games Room",
+            "Indoor Pool",
+            "Ironing Service",
+            "Ski Storage",
+            "Spa",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Matiltan Valley",
+            "Gigit River",
+            "Ushu Forest",
+            "Utror Valley"
+        ],
+        "images": [
+            "mountain_retreat_kalam_dining_area.jpg",
+            "mountain_retreat_kalam_lounge.jpg",
+            "mountain_retreat_kalam_night_view.jpg",
+            "mountain_retreat_kalam_suite.jpg",
+            "mountain_retreat_kalam_lobby.jpg"
+        ],
+        "contact": {
+            "phone": "+923532560786",
+            "email": "mountainretreatkalamhotel@gmail.com",
+            "website": "http://www.mountainretreatkalam.pk"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Economy Room",
+            "Family Suite",
+            "Standard Double Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ViewSeeker",
+                "rating": 4.4,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.4,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.5,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.3,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Royal Heights Malam Jabba",
+        "price_range": "10,000 - 21,000 PKR",
+        "rating": 4.3,
+        "location": "Malam Jabba, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Malam Jabba.",
+        "amenities": [
+            "Business Center",
+            "Family Rooms",
+            "Heating",
+            "Parking",
+            "River View",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Ski Resort"
+        ],
+        "images": [
+            "royal_heights_malam_jabba_night_view.jpg",
+            "royal_heights_malam_jabba_reception.jpg",
+            "royal_heights_malam_jabba_river_view.jpg",
+            "royal_heights_malam_jabba_garden.jpg",
+            "royal_heights_malam_jabba_suite.jpg"
+        ],
+        "contact": {
+            "phone": "+929950407881",
+            "email": "info@royalheightsmalamjabba.com",
+            "website": "http://www.royalheightsmalamjabba.travel"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Honeymoon Suite",
+            "Royal Suite",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ValleyHiker",
+                "rating": 4.5,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.7,
+                "comment": "Decent experience, but noise from nearby rooms was sometimes an issue."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.2,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.9,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Grand Comfort",
+        "price_range": "11,500 - 18,000 PKR",
+        "rating": 4.2,
+        "location": "Malam Jabba, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Gigit Valley experience.",
+        "amenities": [
+            "Airport Shuttle",
+            "Indoor Pool",
+            "Outdoor Pool",
+            "Packed Lunches",
+            "Parking",
+            "River View"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "grand_comfort_mountain_view.jpg",
+            "grand_comfort_conference_room.jpg",
+            "grand_comfort_garden.jpg",
+            "grand_comfort_deluxe_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923449762978",
+            "email": "grandcomfortresort@yahoo.com",
+            "website": "http://www.grandcomforthotel.travel"
+        },
+        "booking_options": [
+            "Premium Room",
+            "Royal Suite",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.3,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "GigitExplorer",
+                "rating": 4.4,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.0,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            }
+        ]
+    },
+    {
+        "name": "Royal Hideaway Deluxe",
+        "price_range": "8,500 - 20,000 PKR",
+        "rating": 4.0,
+        "location": "Malam Jabba, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Malam Jabba.",
+        "amenities": [
+            "Evening Entertainment",
+            "Free WiFi",
+            "Games Room",
+            "Gift Shop",
+            "Honeymoon Suite",
+            "Ironing Service",
+            "Massage",
+            "Mountain View"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Ski Resort",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "royal_hideaway_deluxe_exterior_view.jpg",
+            "royal_hideaway_deluxe_dining_area.jpg",
+            "royal_hideaway_deluxe_deluxe_room.jpg",
+            "royal_hideaway_deluxe_lounge.jpg",
+            "royal_hideaway_deluxe_garden.jpg"
+        ],
+        "contact": {
+            "phone": "031-9472460",
+            "email": "royalhideawaydeluxeresort@yahoo.com",
+            "website": "http://www.royalhideawaydeluxehotel.hotels"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Honeymoon Suite",
+            "Premium Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ValleyHiker",
+                "rating": 3.6,
+                "comment": "Pleasant stay, but the road to reach the hotel is quite rough."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.5,
+                "comment": "The manager personally helped arrange our local tours."
+            }
+        ]
+    },
+    {
+        "name": "Paradise Continental Mingora",
+        "price_range": "5,000 - 15,500 PKR",
+        "rating": 4.4,
+        "location": "Mingora, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "Bar",
+            "Bonfire Area",
+            "Car Hire",
+            "Elevator",
+            "Free WiFi",
+            "Luggage Storage",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Mingora Bazaar",
+            "Gigit Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "paradise_continental_mingora_terrace.jpg",
+            "paradise_continental_mingora_exterior_view.jpg",
+            "paradise_continental_mingora_deluxe_room.jpg"
+        ],
+        "contact": {
+            "phone": "+929419658214",
+            "email": "reservations@paradisecontinentalmingora.pk",
+            "website": "http://www.paradisecontinentalmingora.pk"
+        },
+        "booking_options": [
+            "Premium Room",
+            "River View Room",
+            "Standard Double Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NatureLover",
+                "rating": 4.8,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.0,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 4.6,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "GigitExplorer",
+                "rating": 4.2,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            }
+        ]
+    },
+    {
+        "name": "Grand Hotel Saidu Sharif",
+        "price_range": "4,500 - 9,000 PKR",
+        "rating": 4.4,
+        "location": "Saidu Sharif, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "Airport Shuttle",
+            "Car Hire",
+            "Gift Shop",
+            "Heating",
+            "Honeymoon Suite",
+            "Hot Tub",
+            "Luggage Storage",
+            "Parking",
+            "River View",
+            "Safe"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "Gigit Royal Palace"
+        ],
+        "images": [
+            "grand_hotel_saidu_sharif_exterior_view.jpg",
+            "grand_hotel_saidu_sharif_lounge.jpg",
+            "grand_hotel_saidu_sharif_reception.jpg",
+            "grand_hotel_saidu_sharif_mountain_view.jpg",
+            "grand_hotel_saidu_sharif_bathroom.jpg"
+        ],
+        "contact": {
+            "phone": "+929413375729",
+            "email": "reservations@grandhotelsaidusharif.pk",
+            "website": "https://grandhotelsaidusharifresort.com"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Mountain View Room",
+            "Premium Room",
+            "Standard Double Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ValleyHiker",
+                "rating": 4.3,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.6,
+                "comment": "The manager personally helped arrange our local tours."
+            }
+        ]
+    },
+    {
+        "name": "Golden View Premium",
+        "price_range": "5,500 - 11,500 PKR",
+        "rating": 3.7,
+        "location": "Mingora, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the Gigit region.",
+        "amenities": [
+            "Daily Housekeeping",
+            "Dry Cleaning",
+            "Meeting Facilities",
+            "Mountain View",
+            "Packed Lunches",
+            "Ski Storage",
+            "Snack Bar"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "golden_view_premium_lounge.jpg",
+            "golden_view_premium_night_view.jpg",
+            "golden_view_premium_deluxe_room.jpg",
+            "golden_view_premium_river_view.jpg",
+            "golden_view_premium_suite.jpg"
+        ],
+        "contact": {
+            "phone": "+923366674575",
+            "email": "reservations@goldenviewpremium.pk",
+            "website": "http://www.goldenviewpremium.hotels"
+        },
+        "booking_options": [
+            "River View Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainDreamer",
+                "rating": 4.3,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "GigitExplorer",
+                "rating": 3.1,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            }
+        ]
+    },
+    {
+        "name": "Peak Residency Malam Jabba",
+        "price_range": "8,000 - 26,000 PKR",
+        "rating": 4.6,
+        "location": "Malam Jabba, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the Gigit Valley's natural beauty.",
+        "amenities": [
+            "Outdoor Pool",
+            "Restaurant",
+            "Room Service",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak"
+        ],
+        "images": [
+            "peak_residency_malam_jabba_dining_area.jpg",
+            "peak_residency_malam_jabba_suite.jpg",
+            "peak_residency_malam_jabba_exterior_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923111949484",
+            "email": "reservations@peakresidencymalamjabba.pk",
+            "website": "http://www.peakresidencymalamjabbahotel.travel"
+        },
+        "booking_options": [
+            "Honeymoon Suite",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "CultureExplorer",
+                "rating": 4.4,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.7,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Heights & Restaurant",
+        "price_range": "6,000 - 12,500 PKR",
+        "rating": 4.6,
+        "location": "Madyan, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Gigit Valley experience.",
+        "amenities": [
+            "BBQ Facilities",
+            "Evening Entertainment",
+            "Non-smoking Rooms",
+            "Room Service",
+            "Safe"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "mountain_heights___restaurant_mountain_view.jpg",
+            "mountain_heights___restaurant_bathroom.jpg",
+            "mountain_heights___restaurant_lounge.jpg"
+        ],
+        "contact": {
+            "phone": "+923586712356",
+            "email": "mountainheightsandrestaurantresort@yahoo.com",
+            "website": "https://mountainheightsandrestaurantresort.travel"
+        },
+        "booking_options": [
+            "Honeymoon Suite",
+            "Royal Suite",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.2,
+                "comment": "Perfect base for exploring the beautiful Gigit Valley."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 5.0,
+                "comment": "The manager personally helped arrange our local tours."
+            }
+        ]
+    },
+    {
+        "name": "Valley Haven Deluxe",
+        "price_range": "4,500 - 11,000 PKR",
+        "rating": 4.6,
+        "location": "Saidu Sharif, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Gigit Valley experience.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Airport Shuttle",
+            "Bar",
+            "Business Center",
+            "Family Rooms",
+            "Fax/Photocopying",
+            "Honeymoon Suite",
+            "Indoor Pool",
+            "Meeting Facilities",
+            "Room Service"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "Gigit Royal Palace"
+        ],
+        "images": [
+            "valley_haven_deluxe_dining_area.jpg",
+            "valley_haven_deluxe_suite.jpg",
+            "valley_haven_deluxe_garden.jpg"
+        ],
+        "contact": {
+            "phone": "+923131237523",
+            "email": "info@valleyhavendeluxe.com",
+            "website": "http://www.valleyhavendeluxehotel.hotels"
+        },
+        "booking_options": [
+            "Royal Suite",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainExplorer",
+                "rating": 4.6,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.5,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.4,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 5.0,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Paradise Inn & Suites",
+        "price_range": "10,000 - 22,500 PKR",
+        "rating": 4.3,
+        "location": "Malam Jabba, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "BBQ Facilities",
+            "Breakfast",
+            "Dry Cleaning",
+            "Family Rooms",
+            "Games Room",
+            "Gift Shop",
+            "Mountain View",
+            "Parking",
+            "River View",
+            "Special Diet Menus"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "paradise_inn___suites_suite.jpg",
+            "paradise_inn___suites_bathroom.jpg",
+            "paradise_inn___suites_conference_room.jpg",
+            "paradise_inn___suites_dining_area.jpg",
+            "paradise_inn___suites_lobby.jpg"
+        ],
+        "contact": {
+            "phone": "+923049088707",
+            "email": "contact@paradiseinnandsuites.com",
+            "website": "http://www.paradiseinnandsuiteshotel.com"
+        },
+        "booking_options": [
+            "Economy Room",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PakVoyager",
+                "rating": 4.0,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.7,
+                "comment": "Warm hospitality that made us feel like family."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Hideaway",
+        "price_range": "3,500 - 10,500 PKR",
+        "rating": 4.4,
+        "location": "Saidu Sharif, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "Perched on a hillside with sweeping valley views, this hotel provides a peaceful escape from urban life.",
+        "amenities": [
+            "BBQ Facilities",
+            "Breakfast",
+            "Fax/Photocopying",
+            "Luggage Storage",
+            "Room Service",
+            "Safe",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "Gigit Royal Palace"
+        ],
+        "images": [
+            "mountain_hideaway_night_view.jpg",
+            "mountain_hideaway_conference_room.jpg",
+            "mountain_hideaway_dining_area.jpg",
+            "mountain_hideaway_lounge.jpg"
+        ],
+        "contact": {
+            "phone": "035-1155905",
+            "email": "contact@mountainhideaway.com",
+            "website": "https://mountainhideawayresort.net"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Honeymoon Suite",
+            "Mountain View Room",
+            "Royal Suite",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.9,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "GigitExplorer",
+                "rating": 3.4,
+                "comment": "Beautiful views but limited dining options."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.8,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.2,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.6,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            }
+        ]
+    },
+    {
+        "name": "Paradise Palace Bahrain",
+        "price_range": "6,000 - 13,000 PKR",
+        "rating": 4.3,
+        "location": "Miandam, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6401,
+            "lng": 72.5702
+        },
+        "description": "Located in the heart of Miandam, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "Bonfire Area",
+            "Dry Cleaning",
+            "Evening Entertainment",
+            "Fitness Center",
+            "Laundry",
+            "Massage",
+            "Meeting Facilities",
+            "Tour Desk",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Mountain Trekking Routes",
+            "PTDC Motel",
+            "Pine Forests",
+            "Waterfall"
+        ],
+        "images": [
+            "paradise_palace_bahrain_restaurant.jpg",
+            "paradise_palace_bahrain_bathroom.jpg",
+            "paradise_palace_bahrain_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923453387482",
+            "email": "info@paradisepalacebahrain.com",
+            "website": "https://paradisepalacebahrainresort.com"
+        },
+        "booking_options": [
+            "Honeymoon Suite",
+            "Mountain View Room",
+            "Royal Suite",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.8,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.4,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 4.7,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "TrailBlazer",
+                "rating": 4.2,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 3.4,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            }
+        ]
+    },
+    {
+        "name": "Peak Heights Madyan",
+        "price_range": "5,000 - 11,000 PKR",
+        "rating": 4.8,
+        "location": "Madyan, Gigit, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the Gigit region.",
+        "amenities": [
+            "Bicycle Rental",
+            "Honeymoon Suite",
+            "Packed Lunches",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "peak_heights_madyan_reception.jpg",
+            "peak_heights_madyan_conference_room.jpg",
+            "peak_heights_madyan_restaurant.jpg"
+        ],
+        "contact": {
+            "phone": "+92-94-2120376",
+            "email": "contact@peakheightsmadyan.com",
+            "website": "https://peakheightsmadyanresort.pk"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Honeymoon Suite",
+            "Mountain View Room",
+            "Royal Suite",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NomadHeart",
+                "rating": 4.6,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 5.0,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    }
+]

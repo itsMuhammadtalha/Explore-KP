@@ -1,0 +1,1264 @@
+[
+    {
+        "name": "Hunza Homes",
+        "price_range": "5,000 - 17,000 PKR",
+        "rating": 3.9,
+        "location": "Hunza, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6514201,
+            "lng": 72.040221
+        },
+        "description": "A riverside retreat offering tranquil surroundings and panoramic views of the Hunza Valley's natural beauty.",
+        "amenities": [
+            "Dry Cleaning",
+            "Massage",
+            "Parking",
+            "Room Service",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Mountain Trekking Routes",
+            "PTDC Motel",
+            "Pine Forests",
+            "Summer Cottages",
+            "Waterfall"
+        ],
+        "images": [
+            "show_us_your_human_side____reception.jpg",
+            "show_us_your_human_side____night_view.jpg",
+            "show_us_your_human_side____river_view.jpg"
+        ],
+        "contact": {
+            "phone": "032-4841864",
+            "email": "hunzahome009@yahoo.com",
+            "website": "http://www.hunzahomes.travel"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Family Suite",
+            "River View Room",
+            "Standard Double Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "SerenitySeeker",
+                "rating": 3.0,
+                "comment": "Good value, but hot water was inconsistent."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.0,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.9,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 3.8,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            },
+            {
+                "user": "TrailBlazer",
+                "rating": 3.8,
+                "comment": "Good value, but hot water was inconsistent."
+            }
+        ]
+    },
+    {
+        "name": "Crystal Hotel & Spa",
+        "price_range": "6,000 - 18,000 PKR",
+        "rating": 4.2,
+        "location": "Hunza, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6514201,
+            "lng": 72.040221
+        },
+        "description": "Featuring traditional Hunzai architecture with modern comforts, this hotel is an ideal base for mountain adventures.",
+        "amenities": [
+            "Games Room",
+            "Indoor Pool",
+            "Luggage Storage",
+            "Packed Lunches",
+            "Parking",
+            "Turkish Bath",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "crystal_hotel___spa_deluxe_room.jpg",
+            "crystal_hotel___spa_night_view.jpg",
+            "crystal_hotel___spa_conference_room.jpg",
+            "crystal_hotel___spa_lobby.jpg",
+            "crystal_hotel___spa_dining_area.jpg"
+        ],
+        "contact": {
+            "phone": "+923235702535",
+            "email": "crystalhotelandsparesort@yahoo.com",
+            "website": "http://www.crystalhotelandspa.travel"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Family Suite",
+            "Premium Room",
+            "River View Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "AdventureSoul",
+                "rating": 3.9,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 5.0,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.8,
+                "comment": "Perfect base for exploring the beautiful Hunza Valley."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 3.1,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            }
+        ]
+    },
+    {
+        "name": "Grand Hideaway",
+        "price_range": "5,000 - 10,000 PKR",
+        "rating": 4.1,
+        "location": "Madyan, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Madyan.",
+        "amenities": [
+            "Airport Shuttle",
+            "Bicycle Rental",
+            "Car Hire",
+            "Free WiFi",
+            "Gift Shop",
+            "Ironing Service",
+            "Meeting Facilities"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "grand_hideaway_lobby.jpg",
+            "grand_hideaway_river_view.jpg",
+            "grand_hideaway_deluxe_room.jpg"
+        ],
+        "contact": {
+            "phone": "+92-99-1386718",
+            "email": "contact@grandhideaway.com",
+            "website": "https://grandhideaway.travel"
+        },
+        "booking_options": [
+            "Mountain View Room",
+            "Premium Room",
+            "Standard Double Room",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "AdventureSoul",
+                "rating": 3.1,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 3.6,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            },
+            {
+                "user": "NatureLover",
+                "rating": 4.9,
+                "comment": "Perfect base for exploring the beautiful Hunza Valley."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 4.8,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            }
+        ]
+    },
+    {
+        "name": "Golden Comfort Saidu Sharif",
+        "price_range": "4,000 - 10,000 PKR",
+        "rating": 4.1,
+        "location": "Saidu Sharif, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "Featuring traditional Hunzai architecture with modern comforts, this hotel is an ideal base for mountain adventures.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Business Center",
+            "Car Hire",
+            "Heating",
+            "Room Service",
+            "Solarium"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "Hunza Royal Palace"
+        ],
+        "images": [
+            "golden_comfort_saidu_sharif_restaurant.jpg",
+            "golden_comfort_saidu_sharif_deluxe_room.jpg",
+            "golden_comfort_saidu_sharif_reception.jpg",
+            "golden_comfort_saidu_sharif_river_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923012220712",
+            "email": "goldencomfortsaidusharifresort@yahoo.com",
+            "website": "http://www.goldencomfortsaidusharif.pk"
+        },
+        "booking_options": [
+            "Royal Suite",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "AdventureSoul",
+                "rating": 3.7,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.1,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.6,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "KarakoramTrekker",
+                "rating": 4.1,
+                "comment": "Perfect base for exploring the beautiful Hunza Valley."
+            }
+        ]
+    },
+    {
+        "name": "Valley Hideaway & Restaurant",
+        "price_range": "4,000 - 8,000 PKR",
+        "rating": 4.4,
+        "location": "Saidu Sharif, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Saidu Sharif.",
+        "amenities": [
+            "Bicycle Rental",
+            "Car Hire",
+            "Massage",
+            "Mountain View"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Local Museums",
+            "Hunza Royal Palace"
+        ],
+        "images": [
+            "valley_hideaway___restaurant_deluxe_room.jpg",
+            "valley_hideaway___restaurant_bathroom.jpg",
+            "valley_hideaway___restaurant_terrace.jpg",
+            "valley_hideaway___restaurant_garden.jpg"
+        ],
+        "contact": {
+            "phone": "+923130420053",
+            "email": "info@valleyhideawayandrestaurant.com",
+            "website": "http://www.valleyhideawayandrestauranthotel.travel"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Mountain View Room",
+            "River View Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.9,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.9,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 3.5,
+                "comment": "Beautiful views but limited dining options."
+            }
+        ]
+    },
+    {
+        "name": "Paradise Lodge",
+        "price_range": "4,000 - 10,000 PKR",
+        "rating": 3.9,
+        "location": "Saidu Sharif, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "Nestled amidst lush green valleys, this hotel offers spectacular mountain views with traditional architecture and modern amenities.",
+        "amenities": [
+            "Breakfast",
+            "Car Hire",
+            "Currency Exchange",
+            "Family Rooms",
+            "Heating",
+            "Ironing Service",
+            "Turkish Bath"
+        ],
+        "nearby_attractions": [
+            "Administrative Complex",
+            "Buddha Rock Carvings",
+            "Local Museums"
+        ],
+        "images": [
+            "paradise_lodge_river_view.jpg",
+            "paradise_lodge_garden.jpg",
+            "paradise_lodge_exterior_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923088150417",
+            "email": "contact@paradiselodge.com",
+            "website": "http://www.paradiselodge.pk"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Family Suite",
+            "Mountain View Room",
+            "Premium Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "HunzaExplorer",
+                "rating": 4.9,
+                "comment": "Perfect base for exploring the beautiful Hunza Valley."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 3.7,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 4.4,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 3.0,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 3.7,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            }
+        ]
+    },
+    {
+        "name": "Golden View",
+        "price_range": "8,500 - 21,500 PKR",
+        "rating": 4.4,
+        "location": "Malam Jabba, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "BBQ Facilities",
+            "Business Center",
+            "Car Hire",
+            "Daily Housekeeping",
+            "Heating",
+            "Packed Lunches",
+            "Sauna",
+            "Ski Storage",
+            "Snack Bar"
+        ],
+        "nearby_attractions": [
+            "Chairlift",
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Ski Resort",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "golden_view_suite.jpg",
+            "golden_view_deluxe_room.jpg",
+            "golden_view_mountain_view.jpg",
+            "golden_view_dining_area.jpg",
+            "golden_view_conference_room.jpg"
+        ],
+        "contact": {
+            "phone": "034-1379312",
+            "email": "goldenviewresort@yahoo.com",
+            "website": "http://www.goldenviewhotel.hotels"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Premium Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "ViewSeeker",
+                "rating": 5.0,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.1,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 3.9,
+                "comment": "Beautiful views but limited dining options."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.5,
+                "comment": "Perfect base for exploring the beautiful Hunza Valley."
+            }
+        ]
+    },
+    {
+        "name": "Valley Hideaway",
+        "price_range": "5,000 - 12,500 PKR",
+        "rating": 4.3,
+        "location": "Mingora, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the Hunza region.",
+        "amenities": [
+            "Airport Shuttle",
+            "Bonfire Area",
+            "Fitness Center",
+            "Laundry",
+            "Non-smoking Rooms",
+            "Special Diet Menus"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Mingora Bazaar",
+            "Hunza Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "valley_hideaway_reception.jpg",
+            "valley_hideaway_mountain_view.jpg",
+            "valley_hideaway_bathroom.jpg",
+            "valley_hideaway_conference_room.jpg"
+        ],
+        "contact": {
+            "phone": "+92-33-6825674",
+            "email": "info@valleyhideaway.com",
+            "website": "https://valleyhideawayresort.pk"
+        },
+        "booking_options": [
+            "Honeymoon Suite",
+            "River View Room",
+            "Royal Suite",
+            "Standard Double Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PakistanTraveler",
+                "rating": 3.4,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 4.9,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "PakVoyager",
+                "rating": 4.3,
+                "comment": "Perfect base for exploring the beautiful Hunza Valley."
+            },
+            {
+                "user": "MountainView",
+                "rating": 4.6,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Hideaway",
+        "price_range": "5,000 - 14,000 PKR",
+        "rating": 4.6,
+        "location": "Mingora, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "Honeymoon Suite",
+            "Library",
+            "Restaurant",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Mingora Bazaar",
+            "Hunza Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "mountain_hideaway_suite.jpg",
+            "mountain_hideaway_terrace.jpg",
+            "mountain_hideaway_mountain_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923158702722",
+            "email": "contact@mountainhideaway.com",
+            "website": "https://mountainhideawayresort.travel"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Premium Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.5,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.2,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "PakVoyager",
+                "rating": 5.0,
+                "comment": "Perfect base for exploring the beautiful Hunza Valley."
+            }
+        ]
+    },
+    {
+        "name": "Peak View Bahrain",
+        "price_range": "5,500 - 12,500 PKR",
+        "rating": 4.0,
+        "location": "Mingora, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Mingora.",
+        "amenities": [
+            "Daily Housekeeping",
+            "Fitness Center",
+            "Garden",
+            "Honeymoon Suite",
+            "Massage",
+            "Sauna",
+            "Ski Storage",
+            "Turkish Bath"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Mingora Bazaar",
+            "Hunza Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "peak_view_bahrain_restaurant.jpg",
+            "peak_view_bahrain_reception.jpg",
+            "peak_view_bahrain_night_view.jpg",
+            "peak_view_bahrain_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "+923685477440",
+            "email": "info@peakviewbahrain.com",
+            "website": "http://www.peakviewbahrainhotel.com"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Honeymoon Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "HunzaExplorer",
+                "rating": 3.1,
+                "comment": "Clean rooms, though a bit smaller than expected."
+            },
+            {
+                "user": "MountainView",
+                "rating": 3.3,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 4.7,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.7,
+                "comment": "Warm hospitality that made us feel like family."
+            }
+        ]
+    },
+    {
+        "name": "Grand Comfort Madyan",
+        "price_range": "5,000 - 10,000 PKR",
+        "rating": 4.6,
+        "location": "Madyan, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "This boutique hotel combines local charm with contemporary amenities, offering a unique stay in the heart of Madyan.",
+        "amenities": [
+            "BBQ Facilities",
+            "Heating",
+            "Hot Tub",
+            "Turkish Bath",
+            "VIP Room Facilities"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "River Beaches",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "grand_comfort_madyan_lobby.jpg",
+            "grand_comfort_madyan_suite.jpg",
+            "grand_comfort_madyan_standard_room.jpg",
+            "grand_comfort_madyan_garden.jpg",
+            "grand_comfort_madyan_dining_area.jpg"
+        ],
+        "contact": {
+            "phone": "+923686584957",
+            "email": "reservations@grandcomfortmadyan.pk",
+            "website": "https://grandcomfortmadyan.pk"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Honeymoon Suite",
+            "Mountain View Room",
+            "River View Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "AdventureSoul",
+                "rating": 4.6,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 5.0,
+                "comment": "Friendly staff who went above and beyond to make our stay comfortable."
+            },
+            {
+                "user": "NomadHeart",
+                "rating": 4.1,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 4.6,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Green Heights International",
+        "price_range": "5,000 - 13,500 PKR",
+        "rating": 3.6,
+        "location": "Mingora, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the Hunza region.",
+        "amenities": [
+            "Bicycle Rental",
+            "Free WiFi",
+            "Garden",
+            "Gift Shop",
+            "Hot Tub",
+            "Ironing Service",
+            "Room Service",
+            "Sauna",
+            "Snack Bar",
+            "Terrace"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Mingora Bazaar",
+            "Hunza Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "green_heights_international_suite.jpg",
+            "green_heights_international_conference_room.jpg",
+            "green_heights_international_standard_room.jpg",
+            "green_heights_international_reception.jpg"
+        ],
+        "contact": {
+            "phone": "099-4668961",
+            "email": "reservations@greenheightsinternational.pk",
+            "website": "https://greenheightsinternationalresort.hotels"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Economy Room",
+            "Premium Room",
+            "Standard Single Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "PakistanTraveler",
+                "rating": 4.2,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "TrailBlazer",
+                "rating": 3.9,
+                "comment": "Pleasant stay, but the road to reach the hotel is quite rough."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 3.0,
+                "comment": "Beautiful views but limited dining options."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.1,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            },
+            {
+                "user": "CultureExplorer",
+                "rating": 4.0,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Peak Haven Kalam",
+        "price_range": "8,000 - 16,500 PKR",
+        "rating": 4.2,
+        "location": "Kalam, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "Located in the heart of Kalam, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Bonfire Area",
+            "Car Hire",
+            "Currency Exchange",
+            "Free WiFi",
+            "Outdoor Pool",
+            "Room Service",
+            "Ski Storage",
+            "Terrace",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Matiltan Valley",
+            "Hunza River",
+            "Ushu Forest",
+            "Utror Valley"
+        ],
+        "images": [
+            "peak_haven_kalam_terrace.jpg",
+            "peak_haven_kalam_river_view.jpg",
+            "peak_haven_kalam_dining_area.jpg"
+        ],
+        "contact": {
+            "phone": "+92-99-4844154",
+            "email": "reservations@peakhavenkalam.pk",
+            "website": "https://peakhavenkalam.com"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Family Suite",
+            "Premium Room",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NatureLover",
+                "rating": 4.2,
+                "comment": "Great value for money with excellent service."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.1,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            }
+        ]
+    },
+    {
+        "name": "Golden Residency & Restaurant",
+        "price_range": "4,000 - 10,500 PKR",
+        "rating": 4.4,
+        "location": "Madyan, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.1358,
+            "lng": 72.5202
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Hunza Valley experience.",
+        "amenities": [
+            "Breakfast",
+            "Laundry",
+            "Non-smoking Rooms",
+            "Snack Bar"
+        ],
+        "nearby_attractions": [
+            "Local Handicrafts",
+            "Mountain Hiking Routes",
+            "Traditional Wooden Mosques"
+        ],
+        "images": [
+            "golden_residency___restaurant_river_view.jpg",
+            "golden_residency___restaurant_mountain_view.jpg",
+            "golden_residency___restaurant_lounge.jpg"
+        ],
+        "contact": {
+            "phone": "033-5167356",
+            "email": "contact@goldenresidencyandrestaurant.com",
+            "website": "https://goldenresidencyandrestaurantresort.net"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Family Suite",
+            "Mountain View Room",
+            "Premium Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainView",
+                "rating": 5.0,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 4.9,
+                "comment": "Warm hospitality that made us feel like family."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 3.4,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "AdventureSoul",
+                "rating": 4.2,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            }
+        ]
+    },
+    {
+        "name": "Crown Comfort International",
+        "price_range": "10,500 - 19,500 PKR",
+        "rating": 4.0,
+        "location": "Malam Jabba, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.8143,
+            "lng": 72.5634
+        },
+        "description": "A cozy mountain lodge providing intimate settings and personalized service for an unforgettable Hunza Valley experience.",
+        "amenities": [
+            "Bonfire Area",
+            "Indoor Pool",
+            "Non-smoking Rooms",
+            "Room Service"
+        ],
+        "nearby_attractions": [
+            "Hiking Trails",
+            "Malam Jabba Peak",
+            "Spectacular Viewpoints"
+        ],
+        "images": [
+            "crown_comfort_international_terrace.jpg",
+            "crown_comfort_international_river_view.jpg",
+            "crown_comfort_international_exterior_view.jpg",
+            "crown_comfort_international_bathroom.jpg",
+            "crown_comfort_international_deluxe_room.jpg"
+        ],
+        "contact": {
+            "phone": "035-1142050",
+            "email": "crowncomfortinternationalresort@yahoo.com",
+            "website": "http://www.crowncomfortinternationalhotel.com"
+        },
+        "booking_options": [
+            "Royal Suite",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "MountainDreamer",
+                "rating": 3.1,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.1,
+                "comment": "The food at the hotel restaurant was delicious and authentic."
+            },
+            {
+                "user": "TravelEnthusiast",
+                "rating": 4.6,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            },
+            {
+                "user": "ValleyHiker",
+                "rating": 3.5,
+                "comment": "Good value, but hot water was inconsistent."
+            },
+            {
+                "user": "MountainExplorer",
+                "rating": 4.8,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Riverside Inn",
+        "price_range": "6,500 - 16,500 PKR",
+        "rating": 4.2,
+        "location": "Miandam, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.6401,
+            "lng": 72.5702
+        },
+        "description": "This family-run hotel provides warm hospitality and authentic local experiences, perfect for exploring Miandam.",
+        "amenities": [
+            "Bicycle Rental",
+            "Fitness Center",
+            "Gift Shop",
+            "Honeymoon Suite",
+            "Laundry",
+            "Non-smoking Rooms",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Mountain Trekking Routes",
+            "Summer Cottages",
+            "Waterfall"
+        ],
+        "images": [
+            "riverside_inn_lobby.jpg",
+            "riverside_inn_exterior_view.jpg",
+            "riverside_inn_terrace.jpg",
+            "riverside_inn_conference_room.jpg"
+        ],
+        "contact": {
+            "phone": "+92-36-5149893",
+            "email": "reservations@riversideinn.pk",
+            "website": "https://riversideinn.pk"
+        },
+        "booking_options": [
+            "Economy Room",
+            "Executive Room",
+            "Family Suite",
+            "Standard Single Room",
+            "Twin Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "TrailBlazer",
+                "rating": 4.4,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 3.1,
+                "comment": "Comfortable stay overall, but the bathroom facilities could be improved."
+            },
+            {
+                "user": "ViewSeeker",
+                "rating": 4.9,
+                "comment": "The manager personally helped arrange our local tours."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 4.3,
+                "comment": "Great value for money with excellent service."
+            }
+        ]
+    },
+    {
+        "name": "Mountain Comfort & Resort",
+        "price_range": "4,500 - 9,000 PKR",
+        "rating": 4.0,
+        "location": "Saidu Sharif, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.745,
+            "lng": 72.3557
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "Bar",
+            "Bonfire Area",
+            "Breakfast",
+            "Currency Exchange",
+            "Heating",
+            "Honeymoon Suite",
+            "Hot Tub",
+            "Indoor Pool",
+            "Laundry",
+            "River View"
+        ],
+        "nearby_attractions": [
+            "Buddha Rock Carvings",
+            "Local Museums",
+            "Hunza Royal Palace"
+        ],
+        "images": [
+            "mountain_comfort___resort_mountain_view.jpg",
+            "mountain_comfort___resort_conference_room.jpg",
+            "mountain_comfort___resort_lounge.jpg",
+            "mountain_comfort___resort_lobby.jpg",
+            "mountain_comfort___resort_dining_area.jpg"
+        ],
+        "contact": {
+            "phone": "034-1965340",
+            "email": "reservations@mountaincomfortandresort.pk",
+            "website": "http://www.mountaincomfortandresort.pk"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Executive Room",
+            "Premium Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "NorthernEscapes",
+                "rating": 4.2,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "RiversideWanderer",
+                "rating": 4.9,
+                "comment": "Comfortable beds and peaceful surroundings for a good night's sleep."
+            },
+            {
+                "user": "PeacefulWanderer",
+                "rating": 3.6,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            },
+            {
+                "user": "MountainView",
+                "rating": 3.4,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            }
+        ]
+    },
+    {
+        "name": "Crown View Premium",
+        "price_range": "7,000 - 17,000 PKR",
+        "rating": 4.0,
+        "location": "Kalam, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "Set against the backdrop of snow-capped peaks, this hotel offers comfortable accommodation with stunning natural vistas.",
+        "amenities": [
+            "Airport Shuttle",
+            "Bonfire Area",
+            "Fax/Photocopying",
+            "Free WiFi",
+            "Room Service",
+            "Sauna",
+            "Solarium",
+            "Spa"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Matiltan Valley",
+            "Hunza River",
+            "Ushu Forest",
+            "Utror Valley"
+        ],
+        "images": [
+            "crown_view_premium_deluxe_room.jpg",
+            "crown_view_premium_standard_room.jpg",
+            "crown_view_premium_lobby.jpg"
+        ],
+        "contact": {
+            "phone": "+92-99-1496783",
+            "email": "crownviewpremiumresort@yahoo.com",
+            "website": "https://crownviewpremiumresort.hotels"
+        },
+        "booking_options": [
+            "Executive Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "CultureExplorer",
+                "rating": 3.6,
+                "comment": "Pleasant stay, but the road to reach the hotel is quite rough."
+            },
+            {
+                "user": "MountainDreamer",
+                "rating": 4.4,
+                "comment": "Stunning views from the terrace - perfect for morning tea."
+            }
+        ]
+    },
+    {
+        "name": "Royal Plaza Mingora",
+        "price_range": "5,000 - 12,000 PKR",
+        "rating": 4.0,
+        "location": "Mingora, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 34.7795,
+            "lng": 72.3601
+        },
+        "description": "Located in the heart of Mingora, this hotel combines comfort and convenience with easy access to local attractions.",
+        "amenities": [
+            "24-hour Front Desk",
+            "Breakfast",
+            "Room Service",
+            "Snack Bar",
+            "Special Diet Menus",
+            "Tour Desk"
+        ],
+        "nearby_attractions": [
+            "Archeological Sites",
+            "Green Square",
+            "Hunza Museum",
+            "White Palace (Marghazar)"
+        ],
+        "images": [
+            "royal_plaza_mingora_lounge.jpg",
+            "royal_plaza_mingora_river_view.jpg",
+            "royal_plaza_mingora_lobby.jpg",
+            "royal_plaza_mingora_standard_room.jpg",
+            "royal_plaza_mingora_night_view.jpg"
+        ],
+        "contact": {
+            "phone": "+923489387853",
+            "email": "reservations@royalplazamingora.pk",
+            "website": "https://royalplazamingora.travel"
+        },
+        "booking_options": [
+            "Deluxe Room",
+            "Honeymoon Suite",
+            "River View Room",
+            "Standard Double Room"
+        ],
+        "user_reviews": [
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.7,
+                "comment": "Excellent location with breathtaking views of the mountains."
+            },
+            {
+                "user": "SerenitySeeker",
+                "rating": 3.4,
+                "comment": "Nice property but the Wi-Fi was a bit unreliable."
+            }
+        ]
+    },
+    {
+        "name": "Crown Residency",
+        "price_range": "7,000 - 13,500 PKR",
+        "rating": 3.6,
+        "location": "Kalam, Hunza, Khyber Pakhtunkhwa",
+        "coordinates": {
+            "lat": 35.4712,
+            "lng": 72.5701
+        },
+        "description": "A recently renovated property offering modern facilities while maintaining the cultural heritage of the Hunza region.",
+        "amenities": [
+            "Airport Shuttle",
+            "Bicycle Rental",
+            "Spa",
+            "Tour Arrangements"
+        ],
+        "nearby_attractions": [
+            "Kalam Bazaar",
+            "Matiltan Valley",
+            "Ushu Forest"
+        ],
+        "images": [
+            "crown_residency_exterior_view.jpg",
+            "crown_residency_river_view.jpg",
+            "crown_residency_standard_room.jpg"
+        ],
+        "contact": {
+            "phone": "094-2352365",
+            "email": "reservations@crownresidency.pk",
+            "website": "https://crownresidencyresort.net"
+        },
+        "booking_options": [
+            "Family Suite",
+            "Mountain View Room",
+            "Royal Suite"
+        ],
+        "user_reviews": [
+            {
+                "user": "TravelEnthusiast",
+                "rating": 3.7,
+                "comment": "Good value, but hot water was inconsistent."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.4,
+                "comment": "Friendly staff, but service was sometimes slow during busy hours."
+            },
+            {
+                "user": "HillsAndValleys",
+                "rating": 4.0,
+                "comment": "Clean and spacious rooms with all the necessary amenities."
+            },
+            {
+                "user": "NorthernEscapes",
+                "rating": 3.2,
+                "comment": "Helpful staff, though they had limited English proficiency."
+            }
+        ]
+    }
+]
